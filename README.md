@@ -1,6 +1,6 @@
-## LEARNING MORE TO DEVELOP BETTER
+## LEARNING MORE TO DEVELOP BETTER 💪
 
-### I'm studying computer science at SBU
+### I study computer science at <a href="https://sbu.ac.ir" style="decoration:none;">Shahid Beheshti University</a>  
 
 [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)
 
@@ -22,6 +22,9 @@
 ![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![Jquery](https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg)
 ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+
+### My Youtube Channel
+[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 
 ## Contact me
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="32">](https://gitlab.com/muhammadksht)
