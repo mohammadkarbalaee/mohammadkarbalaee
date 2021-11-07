@@ -1,4 +1,4 @@
-## __LEARNING MORE TO DEVELOP BETTER__ 💪
+__LEARNING MORE TO DEVELOP BETTER__ 💪
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>  
 
