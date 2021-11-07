@@ -22,8 +22,7 @@
 ![Jquery](https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg)
 ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
-### My Youtube Channel
-[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
+## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 
 ## Contact me
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="32">](https://gitlab.com/muhammadksht)
