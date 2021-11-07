@@ -47,5 +47,3 @@
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32">](mailto:muhammad.ksht@gmail.com)
 [<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="32">](https://wa.me/989373899988)
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="32">](https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani)
-
-<p align="center"><img src="google.gif" width="600"></p>
