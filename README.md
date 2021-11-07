@@ -1,6 +1,6 @@
 # **LEARNING MORE TO DEVELOP BETTER** 💪
 
-<p align="center"><img src="flutter_big.gif" width="600"></p>
+<p align="center"><img src="flutter_big.gif" width="1000"></p>
 
 <p align="center">
  <img src="java.gif" width="200">
