@@ -2,12 +2,14 @@
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>  
 
-[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)
+<pre>
+            [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
+            <img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
+            <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
+</pre>
 
 ## A bit Knowledge
 
