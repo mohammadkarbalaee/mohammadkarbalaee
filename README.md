@@ -11,7 +11,7 @@
 [<img src="java.gif" width="200">](https://github.com/muhammadksht)
 [<img src="android.gif" width="300">](https://github.com/muhammadksht)
 [<img src="react.gif" width="200">](https://github.com/muhammadksht)
-[<img src="giphy.gif" width="500" height="500">](https://github.com/muhammadksht)
+[<img src="giphy.gif" width="1000" height="500">](https://github.com/muhammadksht)
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
