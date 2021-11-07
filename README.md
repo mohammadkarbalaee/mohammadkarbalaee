@@ -1,6 +1,4 @@
 <p align="center"><img src="greetings.gif" width="1000"></p>
-
-<p align="center"><img src="js_logo.gif" width="200"></p>
  
 <p align="center">
  <img src="java.gif" width="200">
