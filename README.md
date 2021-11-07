@@ -8,13 +8,10 @@
 
 [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
 
-<<<<<<< HEAD
 ![JSoN](jsOn.gif)
 
 ## A bit Knowledge
-=======
 ## A bit Knowledge in:
->>>>>>> 92e2155c12be46b51a76daa022412e8496f82087
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
