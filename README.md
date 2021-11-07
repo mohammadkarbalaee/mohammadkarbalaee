@@ -10,7 +10,6 @@
 
 ![jsOn](giphy.gif)
 
-## A bit Knowledge
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
