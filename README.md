@@ -1,5 +1,5 @@
 # **LEARNING MORE TO DEVELOP BETTER** 💪
-[<img src="flutter_big.gif" width="500">](https://github.com/muhammadksht)
+[<p align="center"><img src="flutter_big.gif" width="800"></p>](https://github.com/muhammadksht)
 
 [<img src="java.gif" width="200">](https://github.com/muhammadksht)
 [<img src="android.gif" width="350">](https://github.com/muhammadksht)
