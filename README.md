@@ -1,4 +1,4 @@
-<p align="center"><img src="greetings.gif" width="1000"></p>
+<p align="center"><img src="hello_world.gif" width="1000"></p>
 
 
 # **LEARNING MORE TO DEVELOP BETTER**
