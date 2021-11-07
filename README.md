@@ -1,4 +1,14 @@
 # **LEARNING MORE TO DEVELOP BETTER** 💪
+
+### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
+### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan AI</a>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
+
+
+[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
+
 [<p align="center"><img src="flutter_big.gif" width="600"></p>](https://github.com/muhammadksht)
 
 <p align="center">
@@ -6,14 +16,6 @@
  <img src="android.gif" width="350">
  <img src="react.gif" width="200">
 </p>
-
-### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
-
-
-[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
