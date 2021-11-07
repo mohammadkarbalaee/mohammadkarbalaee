@@ -1,6 +1,4 @@
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
- 
- # **LEARNING MORE TO DEVELOP BETTER** 💪
+# **LEARNING MORE TO DEVELOP BETTER** 💪
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan AI</a>
