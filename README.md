@@ -1,7 +1,7 @@
 # **LEARNING MORE TO DEVELOP BETTER** 💪
 
 [<img src="java.gif" width="200">](https://github.com/muhammadksht)
-[<img src="android.gif" width="400">](https://github.com/muhammadksht)
+[<img src="android.gif" width="350">](https://github.com/muhammadksht)
 [<img src="react.gif" width="200">](https://github.com/muhammadksht)
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
