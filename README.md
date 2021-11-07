@@ -1,9 +1,11 @@
 # **LEARNING MORE TO DEVELOP BETTER** 💪
 [<p align="center"><img src="flutter_big.gif" width="800"></p>](https://github.com/muhammadksht)
 
-[<img src="java.gif" width="200">](https://github.com/muhammadksht)
+<p align="center">
+ [<img src="java.gif" width="200">](https://github.com/muhammadksht)
 [<img src="android.gif" width="350">](https://github.com/muhammadksht)
 [<img src="react.gif" width="200">](https://github.com/muhammadksht)
+</p>
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 
