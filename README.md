@@ -2,9 +2,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
 
-[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&show_icons=true&include_all_commits=true&theme=night)](https://github.com/muhammadksht)
+[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=yeblu)](https://github.com/muhammadksht)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=night)](https://github.com/muhammadksht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=yeblu)](https://github.com/muhammadksht)
 
 ## A bit Knowledge
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
