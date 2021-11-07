@@ -8,7 +8,14 @@
 
 [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
 
-![jsOn](giphy.gif)![android](android.gif)![java](java.gif)![react](react.gif)
+![android](android.gif)
+![jsOn](giphy.gif)
+![java](java.gif)
+![react](react.gif)
+[<img src="java.gif" width="100">](https://github.com/muhammadksht)
+[<img src="android.gif" width="100">](https://github.com/muhammadksht)
+[<img src="react.gif" width="100">](https://github.com/muhammadksht)
+[<img src="giphy.gif" width="100">](https://github.com/muhammadksht)
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
