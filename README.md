@@ -12,6 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
 </p>
 
+<p align="center"><img src="js_logo.gif" width="200"></p>
+ 
 <p align="center">
  <img src="java.gif" width="200">
  <img src="android.gif" width="350">
@@ -33,7 +35,6 @@
 
 ## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 
-<img src="js_logo.gif" width="100">
 
 ## Contact me
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="32">](https://gitlab.com/muhammadksht)
@@ -46,4 +47,4 @@
 [<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="32">](https://wa.me/989373899988)
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="32">](https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani)
 
-<p align="center"><img src="flutter_logo.gif" width="1000"></p>
+<p align="center"><img src="flutter_big.gif" width="1000"></p>
