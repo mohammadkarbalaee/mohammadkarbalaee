@@ -8,8 +8,8 @@
 
 <p align="center">
  
-[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/muhammadksht)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
+[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github.com/muhammadksht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=gruvbox_light)](https://github.com/muhammadksht)
 </p>
 
 <p align="center"><img src="js_logo.gif" width="200"></p>
