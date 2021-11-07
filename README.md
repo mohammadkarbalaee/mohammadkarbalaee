@@ -1,13 +1,5 @@
 # **LEARNING MORE TO DEVELOP BETTER** 💪
 
-<p align="center"><img src="flutter_big.gif" width="1000"></p>
-
-<p align="center">
- <img src="java.gif" width="200">
- <img src="android.gif" width="350">
- <img src="react.gif" width="200">
-</p>
-
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan AI</a>
 
@@ -20,6 +12,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=react)](https://github.com/muhammadksht)
 </p>
 
+<p align="center"><img src="flutter.gif" width="200"></p>
+
+<p align="center">
+ <img src="java.gif" width="200">
+ <img src="android.gif" width="350">
+ <img src="react.gif" width="200">
+</p>
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
@@ -35,6 +34,8 @@
 ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
 ## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
+
+<p align="center"><img src="js_logo.gif" width="200"></p>
 
 ## Contact me
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="32">](https://gitlab.com/muhammadksht)
