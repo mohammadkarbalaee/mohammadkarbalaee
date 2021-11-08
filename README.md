@@ -55,5 +55,5 @@
 
 ### In Case You Found Something Useful Here 😊
 <p align="center">
- <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="250" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+ <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 </p>
