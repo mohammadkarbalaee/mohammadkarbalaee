@@ -17,12 +17,10 @@
 
 
 <p align="center">
- 
+ <img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" height="400">
 [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=shades-of-purple)](https://github.com/muhammadksht)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=shades-of-purple)](https://github.com/muhammadksht)
 </p>
-
-<img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" height="200">
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
