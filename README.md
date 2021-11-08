@@ -6,16 +6,6 @@
  <img src="react.gif" width="150">
 </p>
 
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/muhammadksht/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/muhammadksht/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
-  
 # **LEARNING MORE TO DEVELOP BETTER**
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
