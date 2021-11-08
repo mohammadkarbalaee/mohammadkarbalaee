@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=shades-of-purple)](https://github.com/muhammadksht)
 </p>
 
-<img src="https://wakatime.com/share/@muhammadksht/d3cb162a-9134-4a60-86fb-f789d341371f.svg">
+<img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" height="200">
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
