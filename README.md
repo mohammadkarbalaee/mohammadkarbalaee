@@ -54,8 +54,6 @@
 
 ### In Case You Found Something Useful Here 😊 
 <p align="center">
- <p align="center">
  <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="180" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-</p>
  <img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" width="500">
 </p>
