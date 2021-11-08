@@ -1,9 +1,9 @@
 <p align="center"><img src="greetings.gif" width="500"></p>
  
 <p align="center">
- <img src="java.gif" width="100">
- <img src="android.gif" width="150">
- <img src="react.gif" width="100">
+ <img src="java.gif" width="150">
+ <img src="android.gif" width="200">
+ <img src="react.gif" width="150">
 </p>
 
 # **LEARNING MORE TO DEVELOP BETTER**
@@ -50,5 +50,5 @@
 
 # In Case You Found Something Useful Here 😊
 <p align="center">
- <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="100" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+ <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="300" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 </p>
