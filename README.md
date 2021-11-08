@@ -24,9 +24,7 @@
 
 </p>
 
-<p align="center">
- <img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" height="400">
-</p>
+<img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" height="300">
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
