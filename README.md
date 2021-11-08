@@ -20,7 +20,7 @@
  
 [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=shades-of-purple)](https://github.com/muhammadksht)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=shades-of-purple)](https://github.com/muhammadksht)
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht)](https://github.com/anuraghazra/github-readme-stats)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht&v=2)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
