@@ -24,6 +24,9 @@
 
 </p>
 
+<p align="center">
+ <img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" width="400">
+</p>
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
@@ -53,7 +56,3 @@
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32">](mailto:muhammad.ksht@gmail.com)
 [<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="32">](https://wa.me/989373899988)
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="32">](https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani)
-
-<p align="center">
- <img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" height="200" width="1000">
-</p>
