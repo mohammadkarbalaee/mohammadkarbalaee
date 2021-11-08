@@ -11,8 +11,11 @@
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan AI</a>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
+<p align="center">
+<img alt="GitHub followers" width="200" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
+<img alt="Github Viewers" width="200" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
+</p>
+
 
 <p align="center">
  
@@ -50,5 +53,5 @@
 
 # In Case You Found Something Useful Here 😊
 <p align="center">
- <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="300" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+ <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="250" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 </p>
