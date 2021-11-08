@@ -12,7 +12,7 @@
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan AI</a>
 
 <p align="center">
-<img alt="GitHub followers" width="200" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
+<img alt="GitHub followers" width="150" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
 <img alt="Github Viewers" width="200" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=yellow">
 </p>
 
