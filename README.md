@@ -12,7 +12,7 @@
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan AI</a>
 
 <img alt="GitHub followers" width="100" src="https://img.shields.io/github/followers/muhammadksht?style=flat-square&color=blue"><br>
-<img alt="Github Viewers" width="120" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=green">
+<img alt="Github Viewers" width="120" src="https://komarev.com/ghpvc/?username=muhammadksht&style=flat-square&color=green"><br>
 [![wakatime](https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg)](https://wakatime.com/@2fc4b18b-ec8f-46e8-be9b-2b05a111037b)
 
 
