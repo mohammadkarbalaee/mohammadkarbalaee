@@ -1,4 +1,4 @@
-<p align="center"><img src="greetings.gif" width="400"></p>
+<p align="center"><img src="greetings.gif" width="500"></p>
  
 <p align="center">
  <img src="java.gif" width="150">
