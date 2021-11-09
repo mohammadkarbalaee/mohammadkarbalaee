@@ -24,7 +24,7 @@
 
 </p>
 
-<img src="https://wakatime.com/share/@muhammadksht/2ea64ea8-b205-4d1f-9397-e077f513a42b.svg" width="300"><img src="https://wakatime.com/share/@muhammadksht/3fd5035b-142f-4222-b726-1ea5e84931ea.svg" width="300">
+<img src="https://wakatime.com/share/@muhammadksht/2ea64ea8-b205-4d1f-9397-e077f513a42b.svg" width="400">   <img src="https://wakatime.com/share/@muhammadksht/3fd5035b-142f-4222-b726-1ea5e84931ea.svg" width="400">
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
