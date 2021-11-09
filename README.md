@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
- <img src="https://wakatime.com/share/@muhammadksht/8a34daa5-5b34-47ac-a49e-275ca274fc23.svg" width="400"></br>
- <img src="https://wakatime.com/share/@muhammadksht/677172ed-be1e-443f-973e-511c9ae97c8d.svg" width="400">
+<img src="https://wakatime.com/share/@muhammadksht/2ea64ea8-b205-4d1f-9397-e077f513a42b.svg" width="400"></br>
+<img src="https://wakatime.com/share/@muhammadksht/4788b925-e56c-4b23-b634-d0c09074942e.svg" width="400">
 </p>
 
 ## A bit Knowledge in:
