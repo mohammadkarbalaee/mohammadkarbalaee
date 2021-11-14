@@ -28,6 +28,7 @@
 
 ## A bit Knowledge in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)
