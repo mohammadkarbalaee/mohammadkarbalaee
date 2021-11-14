@@ -37,7 +37,6 @@
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 ![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![Jquery](https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg)
 ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
 ## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
