@@ -26,7 +26,7 @@
 
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">   <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
 
-## Some Experience in:
+## Prior Experience in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
