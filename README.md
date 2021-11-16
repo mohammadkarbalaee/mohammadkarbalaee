@@ -27,14 +27,17 @@
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">   <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
 
 ## Prior Experience in:
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![Js](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![SASS](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg)
 ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 ## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 
