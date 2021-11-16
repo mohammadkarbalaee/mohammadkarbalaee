@@ -28,7 +28,6 @@
 
 ## Prior Experience in:
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
