@@ -27,9 +27,9 @@
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">   <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
 
 ## Prior Experience in:
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![Js](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
