@@ -5,16 +5,16 @@
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
 <p align="center">
-<img alt="GitHub followers" width="100" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red"><br>
-<img alt="Github Viewers" width="100" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green"><br>
-<img alt="Github Viewers" width="110" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg"><br>
+<img alt="GitHub followers" width="200" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red"><br>
+<img alt="Github Viewers" width="200" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green"><br>
+<img alt="Github Viewers" width="200" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg"><br>
 </p>
 
 
 <p align="center">
- <img alt="Github Viewers" width="1000" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
- <img alt="Github Viewers" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
- <img alt="Github Viewers" width="1000" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
+ <img alt="Github Viewers" width="700" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
+ <img alt="Github Viewers" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
+ <img alt="Github Viewers" width="700" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
 <!-- [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/muhammadksht) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy)](https://github.com/muhammadksht)
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht)](https://github.com/muhammadksht) -->
