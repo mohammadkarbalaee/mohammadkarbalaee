@@ -22,19 +22,122 @@
 
 
 
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://www.techcret.com/images/resource/react-native-logo.png" width="48" height="48" alt="" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" width="48" height="48" alt="" />
+      </a>
+      <br>TelegrafJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://miro.medium.com/max/624/0*Z-jwqyt2k8NbHaQe.png" width="48" height="48" alt="" />
+      </a>
+      <br>Framer Motion
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://i1.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" width="48" height="48" alt="" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+</table>
+                                                                                                                                         
 ## Prior Experience in:
-![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
-![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![Js](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-![SASS](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg)
-![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 ## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 
