@@ -139,9 +139,10 @@
 </p>                                                                                                        
 
                                                                                                                                          
-## In Case You Found Something Useful Here 😊 <p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="180" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
+## In Case You Found Something Useful Here: 😊<p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
 
 ## Contact me
+<p align="center">
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="50">](https://gitlab.com/muhammadksht)
 [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="50">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="50">](https://www.linkedin.com/in/muhammad-karbalae?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B19Xhz8Q8QmOyP6k87j%2BeUg%3D%3D)
@@ -152,7 +153,7 @@
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="50">](mailto:muhammad.ksht@gmail.com)
 [<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="50">](https://wa.me/989373899988)
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="50">](https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani)
-
+</p>
 
 <p align="center">
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=000000&line=30f70c&point=f700df" />
