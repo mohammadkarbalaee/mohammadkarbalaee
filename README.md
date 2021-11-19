@@ -12,125 +12,125 @@
 
 
 <p align="center">
- <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
- <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
- <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
- <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="500"><br>
- <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="500"><br>
-<img width="500 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
+ <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
+ <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
+ <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
+ <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400"><br>
+ <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400"><br>
+<img width="400 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
 </p>
 
 
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" height="100" alt="HTML" />
       </a>
       <br>HTML 5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100" height="100" alt="CSS" />
       </a>
       <br>CSS 3
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" height="100" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" height="100" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100" height="100" alt="ReactJS" />
       </a>
       <br>ReactJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100" height="100" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" height="100" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100" height="100" alt="Postman" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="100" height="100" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="200"> 
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="100" height="100" alt="" />
       </a>
       <br>ExpressJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="100" height="100" alt="" />
       </a>
       <br>NextJS
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="200">
       <a href="#">
-        <img src="https://www.techcret.com/images/resource/react-native-logo.png" width="48" height="48" alt="" />
+        <img src="https://www.techcret.com/images/resource/react-native-logo.png" width="100" height="100" alt="" />
       </a>
       <br>React Native
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="200">
       <a href="#">
-        <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" width="48" height="48" alt="" />
+        <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" width="100" height="100" alt="" />
       </a>
       <br>TelegrafJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#">
-        <img src="https://miro.medium.com/max/624/0*Z-jwqyt2k8NbHaQe.png" width="48" height="48" alt="" />
+        <img src="https://miro.medium.com/max/624/0*Z-jwqyt2k8NbHaQe.png" width="100" height="100" alt="" />
       </a>
       <br>Framer Motion
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" height="100" alt="" />
       </a>
       <br>npm
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#" >
-        <img src="https://i1.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" width="48" height="48" alt="" />
+        <img src="https://i1.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" width="100" height="100" alt="" />
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="100" height="100" alt="" />
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="48" height="48" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="100" height="100" alt="" />
       </a>
       <br>Sass
     </td>
