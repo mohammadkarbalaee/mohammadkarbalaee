@@ -12,12 +12,12 @@
 
 
 <p align="center">
- <img alt="Github Viewers" width="10000" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
- <img alt="Github Viewers" width="10000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
- <img alt="Github Viewers" width="10000" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
- <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="10000"><br>
- <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="10000"><br>
-<img width="10000 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
+ <img alt="Github Viewers" width="5000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
+ <img alt="Github Viewers" width="5000" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
+ <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="5000"><br>
+ <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="5000"><br>
+<img width="5000 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
 </p>
 
 
@@ -68,7 +68,7 @@
     </td>
     <td align="center" width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100" height="100" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="80" height="80" alt="Postman" />
       </a>
       <br>TypeScript
     </td>
@@ -118,7 +118,7 @@
     </td>
     <td align="center" width="200">
       <a href="#" >
-        <img src="https://i1.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" width="100" height="100" alt="" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="100" height="100" alt="" />
       </a>
       <br>Redux
     </td>
