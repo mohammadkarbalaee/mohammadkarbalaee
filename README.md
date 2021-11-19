@@ -1,9 +1,7 @@
 <p align="center"><img src="greetings.gif" width="500"></p>
  
 <p align="center">
- <img src="java.gif" width="150">
- <img src="android.gif" width="200">
- <img src="react.gif" width="150">
+ <img src="mern.gif" width="1000">
 </p>
 
 # **LEARNING MORE TO DEVELOP BETTER**
