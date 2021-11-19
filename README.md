@@ -5,9 +5,9 @@
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
 <p align="center">
-<img alt="GitHub followers" width="150" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red">
-<img alt="Github Viewers" width="170" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
-<img alt="Github Viewers" width="220" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
+<img alt="GitHub followers" width="100" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red">
+<img alt="Github Viewers" width="150" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
+<img alt="Github Viewers" width="200" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 </p>
 
 
@@ -174,7 +174,7 @@
         </a>
 </p>
 
-                                                                                                        ## In Case You Found Something Useful Here: 😊<p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
+## In Case You Found Something Useful Here: 😊<p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
                                                                                                         
 <p align="center">
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=000000&line=30f70c&point=f700df" />
