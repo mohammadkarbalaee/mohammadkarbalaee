@@ -20,9 +20,9 @@
 <img width="500 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
 </p>
 
-
-
-<table>
+## Learning and Using:
+<p align="center">
+    <table>
   <tr>
     <td align="center" width="200">
       <a href="#">
@@ -62,13 +62,13 @@
     </td>
     <td align="center" width="200">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" height="100" alt="Bootstrap" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" height="80" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="90" height="90" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="90" height="80" alt="Postman" />
       </a>
       <br>TypeScript
     </td>
@@ -136,9 +136,9 @@
     </td>
   </tr>
 </table>
-                                                                                                                                         
-## Prior Experience in:
+</p>                                                                                                        
 
+                                                                                                                                         
 ## My Youtube Channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="32">](https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ)
 
 ### In Case You Found Something Useful Here 😊
