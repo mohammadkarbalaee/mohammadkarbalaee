@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" height="100" alt="NodeJS" />
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="100" height="100" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
@@ -52,7 +52,7 @@
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100" height="100" alt="ReactJS" />
       </a>
-      <br>ReactJS
+      <br>ReactJS | React Native
     </td>
     <td align="center" width="200">
       <a href="#">
@@ -94,9 +94,9 @@
     </td>
     <td align="center"  width="200">
       <a href="#">
-        <img src="https://www.techcret.com/images/resource/react-native-logo.png" width="100" height="100" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="100" height="100" alt="" />
       </a>
-      <br>React Native
+      <br>Atom
     </td>
     <td align="center"  width="200">
       <a href="#">
@@ -106,13 +106,13 @@
     </td>
     <td align="center" width="200">
       <a href="#">
-        <img src="https://miro.medium.com/max/624/0*Z-jwqyt2k8NbHaQe.png" width="100" height="100" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="100" height="100" alt="" />
       </a>
-      <br>Framer Motion
+      <br>SQLite
     </td>
     <td align="center"  width="200">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" height="100" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="100" height="100" alt="" />
       </a>
       <br>npm
     </td>
