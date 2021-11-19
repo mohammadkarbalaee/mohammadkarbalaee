@@ -13,11 +13,11 @@
 
 <p align="center">
  <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy">
- <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy">
+ <img width="400 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/>
  <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
  <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">
  <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
-<img width="400 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/>
+<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy">
 </p>
 
 ## Learning and Using:
@@ -139,8 +139,7 @@
 </p>                                                                                                        
 
                                                                                                                                          
-## In Case You Found Something Useful Here 😊
-<a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="180" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+## In Case You Found Something Useful Here 😊 <p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="180" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
 
 ## Contact me
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="50">](https://gitlab.com/muhammadksht)
