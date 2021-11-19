@@ -52,7 +52,7 @@
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100" height="100" alt="ReactJS" />
       </a>
-      <br>ReactJS | React Native
+      <br>React & React Native
     </td>
     <td align="center" width="200">
       <a href="#">
