@@ -1,4 +1,4 @@
-<p align="center"><img src="greetings.gif" width="700"></p>
+<p align="center"><img src="greetings.gif" width="600"></p>
 
 # **LEARNING MORE TO DEVELOP BETTER 💪🤜**
 
@@ -173,7 +173,7 @@
         </a>
 </p>
 
-## Found Something Useful here?😍 Motivate Me by a Coffee😊☕ <p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
+## Found Something Useful here?😍 Motivate Me by a Coffee😊☕ <br><p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
                                                                                                         
 <p align="center">
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=000000&line=30f70c&point=f700df" />
