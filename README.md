@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100" height="100" alt="ReactJS" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="150" height="150" alt="ReactJS" />
       </a>
       <br>React & React Native
     </td>
@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="200">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" height="80" alt="Bootstrap" />
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="100" height="100" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
