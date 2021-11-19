@@ -184,4 +184,4 @@
 </p>
                                  
                                  
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" width="1000"/></a> </p>
