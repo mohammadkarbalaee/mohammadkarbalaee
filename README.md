@@ -20,7 +20,7 @@
 <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy">
 </p>
 
-## Learning and Using💎:
+## Learning and Using🛠:
 <p align="center">
     <table>
   <tr>
@@ -139,7 +139,7 @@
 </p>                                                                                                        
 
                                                                                                                                         
-## Contact me
+## Contact me😉
 <p align="center">
         <a href="https://gitlab.com/muhammadksht">
             <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="50">
@@ -173,7 +173,7 @@
         </a>
 </p>
 
-## Found Something Useful here?😍 Motivate Me by a Coffe😊☕ <p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
+## Found Something Useful here?😍 Motivate Me by a Coffee😊☕ <p align="center"><a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></p>
                                                                                                         
 <p align="center">
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=000000&line=30f70c&point=f700df" />
