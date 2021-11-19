@@ -12,9 +12,9 @@
 
 
 <p align="center">
- <img alt="Github Viewers" width="700" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
- <img alt="Github Viewers" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
- <img alt="Github Viewers" width="700" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
 <!-- [![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/muhammadksht) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy)](https://github.com/muhammadksht)
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht)](https://github.com/muhammadksht) -->
