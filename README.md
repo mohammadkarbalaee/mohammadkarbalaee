@@ -1,8 +1,9 @@
 
 <p align="center">
- <img src="mern.gif" width="500">
+ <img src="mern.gif" width="1000">
 </p>
 <p align="center"><img src="greetings.gif" width="500"></p>
+
 # **LEARNING MORE TO DEVELOP BETTER**
 
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
