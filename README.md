@@ -182,3 +182,6 @@
 <p align="center">
  <img src="mern.gif" width="1000">
 </p>
+                                 
+                                 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" /></a> </p>
