@@ -7,7 +7,7 @@
 <p align="center">
 <img alt="GitHub followers" width="100" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red">
 <img alt="Github Viewers" width="150" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
-<img alt="Github Viewers" width="200" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
+<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 </p>
 
 
