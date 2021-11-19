@@ -5,19 +5,19 @@
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
 <p align="center">
-<img alt="GitHub followers" width="200" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red"><br>
-<img alt="Github Viewers" width="220" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green"><br>
-<img alt="Github Viewers" width="250" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg"><br>
+<img alt="GitHub followers" width="100" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red"><br>
+<img alt="Github Viewers" width="120" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green"><br>
+<img alt="Github Viewers" width="150" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg"><br>
 </p>
 
 
 <p align="center">
- <img alt="Github Viewers" width="1000" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
- <img alt="Github Viewers" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
- <img alt="Github Viewers" width="1000" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
- <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="1000"><br>
- <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="1000"><br>
-<img width="1000 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy"><br>
+ <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht"><br>
+ <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="500"><br>
+ <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="500"><br>
+<img width="500 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/><br>
 </p>
 
 
