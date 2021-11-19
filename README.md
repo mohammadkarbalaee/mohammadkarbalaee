@@ -1,8 +1,4 @@
-
-<p align="center">
- <img src="mern.gif" width="1000">
-</p>
-<p align="center"><img src="greetings.gif" width="500"></p>
+<p align="center"><img src="greetings.gif" width="700"></p>
 
 # **LEARNING MORE TO DEVELOP BETTER**
 
@@ -58,4 +54,9 @@
 
 <p align="center">
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=#050505&line=56eb00&point=ff0000" />
+</p>
+
+
+<p align="center">
+ <img src="mern.gif" width="1000">
 </p>
