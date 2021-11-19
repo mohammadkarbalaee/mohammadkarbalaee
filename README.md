@@ -59,5 +59,5 @@
 
 
 <p align="center">
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=fce700&line=F85D7F&point=FFFFFF" />
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=#050505&line=56eb00&point=ff0000" />
 </p>
