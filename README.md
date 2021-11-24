@@ -144,34 +144,34 @@
 ## Contact me😉
 <p align="center">
         <a href="https://gitlab.com/muhammadksht">
-            <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40">
+            <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="30">
         </a>
         <a href="https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ">
-            <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="40">
+            <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30">
         </a>
         <a href="https://www.linkedin.com/in/muhammad-karbalae?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B19Xhz8Q8QmOyP6k87j%2BeUg%3D%3D">
-            <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40">
+            <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30">
         </a>
         <a href="https://twitter.com/Muhammad_ksht">
-             <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40">
+             <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="30">
         </a>
         <a href="https://www.instagram.com/muhammad.ksht">
-             <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="40">
+             <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="30">
         </a>
         <a href="https://www.facebook.com/muhammad.karbalaeeshabani">
-             <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40">
+             <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30">
         </a>
         <a href="http://t.me/muhammadksht">
-            <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40">
+            <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="30">
         </a>
         <a href="mailto:muhammad.ksht@gmail.com">
-            <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40">
+            <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30">
         </a>
         <a href="https://wa.me/989373899988">
-           <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="40">
+           <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="30">
         </a>
         <a href="">
-            <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="40">
+            <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="30">
         </a>
 </p>
 
