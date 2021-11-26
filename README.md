@@ -142,7 +142,7 @@
 
 <details>
   <summary>:zap: Courses I plan to take🏛:</summary>
-   * Net Ninja's CSS animations course                                                                                                            
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="10" height="10" alt="CSS" /> Net Ninja's CSS animations course                                                                                                            
 </details>
 
 
