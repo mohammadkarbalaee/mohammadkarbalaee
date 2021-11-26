@@ -6,6 +6,9 @@
 <br>
 <p align="center"><img src="greetings.gif" width="500"></p>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_c1dtgznx.json"  background="#FAFFB6"  speed="0.8"  style="width: 500px; height: 300px;" hover loop controls autoplay></lottie-player>
+
 ### LEARNING MORE TO DEVELOP BETTER 💪🤜
 
 ### Computer Science Student💻 at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
