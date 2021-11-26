@@ -150,6 +150,7 @@
 
 <details>
   <summary>🟡 Courses I plan to take:</summary>
+    <br>
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="15" height="15" alt="CSS" /> Net Ninja's CSS animations course <br>
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15" height="15" alt="Javascript" /> JavaScript Developer Udemy course <br> 
    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="15" height="15" alt="" /> Freecode camp Express and Node course <br> 
@@ -167,22 +168,24 @@
 
 <details>
   <summary>🔵 Courses I'm taking:</summary>
-   <img src="sbu-logo.svg" width="15" alt=""> Data structures and algorithms course <br>
-   <img src="sbu-logo.svg" width="15" alt=""> English for computer science course <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Introduction to linear algebra <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Introduction to statistics and probabilities <br>
+     <br>                                                                                                       
+   <img src="sbu-logo.svg" width="20" alt=""> Data structures and algorithms course <br>
+   <img src="sbu-logo.svg" width="20" alt=""> English for computer science course <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Introduction to linear algebra <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Introduction to statistics and probabilities <br>
 </details>
 
 
 <details>
   <summary>🟢 Courses I finished successfully:</summary>
-   <img src="sbu-logo.svg" width="15" alt=""> Introduction to programming <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Single-variable calculus <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Multi-variable calculus <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Advanced programming <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Discrete mathematics <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Maple for single-variable calculus <br>
-   <img src="sbu-logo.svg" width="15" alt=""> Introduction to the set theory and logics <br>
+       <br>                                     
+   <img src="sbu-logo.svg" width="20" alt=""> Introduction to programming <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Single-variable calculus <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Multi-variable calculus <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Advanced programming <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Discrete mathematics <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Maple for single-variable calculus <br>
+   <img src="sbu-logo.svg" width="20" alt=""> Introduction to the set theory and logics <br>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="15" height="15" alt="Git" /> Quera Git course <br>
 </details>
 
