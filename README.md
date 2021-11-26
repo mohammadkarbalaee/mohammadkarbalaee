@@ -1,13 +1,15 @@
+<p align="center">
+<img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red">
+<img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
+<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
+</p>
+<br>
 <p align="center"><img src="greetings.gif" width="500"></p>
 
 ### LEARNING MORE TO DEVELOP BETTER 💪🤜
 
 ### Computer Science Student💻 at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Developer🖱 at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
-<br>
-<img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadksht?style=rounded&color=red">
-<img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
-<img alt="Github Viewers" width="150" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 <br>
 
 <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy">
@@ -16,7 +18,7 @@
 <br>
 
 <details>
-  <summary>Additional stats</summary>
+  <summary>Additional stats💹</summary>
   <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">
 <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
@@ -184,6 +186,14 @@
 
 <br>  
 
+<details>
+  <summary>My Github achievements🏆</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" width="700"/>
+</details>   
+
+<br>
+
+
 ### Contact me😉
 <a href="https://gitlab.com/muhammadksht">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="25">
@@ -230,9 +240,5 @@
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=000000&line=30f70c&point=f700df" width="1000"/>
 
 <br>
-
-<details>
-  <summary>My Github achievements</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" width="700"/>
-</details>                                                 
+                                              
 
