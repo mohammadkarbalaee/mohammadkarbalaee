@@ -140,7 +140,13 @@
 </table>
 </p>                                                                                                        
 
-                                                                                                                                        
+<details>
+  <summary>:zap: Courses I plan to take🏛:</summary>
+   * Net Ninja's CSS animations course                                                                                                            
+</details>
+
+
+                                                                                                                 
 ## Contact me😉
 <p align="center">
         <a href="https://gitlab.com/muhammadksht">
