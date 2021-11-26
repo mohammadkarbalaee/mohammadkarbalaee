@@ -222,8 +222,11 @@
 <a href="https://wa.me/989373899988">
    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="25">
 </a>
-<a href="">
+<a href="https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25">
+</a>
+<a href="https://www.hackerrank.com/muhammad_ksht">
+    <img src="hackerrank.svg" width="25">
 </a>
 
 <br>
