@@ -10,14 +10,23 @@
 <img alt="Github Viewers" width="150" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 <br>
 <br>
-<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy">
-<img width="350 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/>
-<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
-<img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="350">
-<img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="350">
-<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy">
-<img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="350">
-<img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="350">
+
+<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy">
+<img width="400 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/>
+
+<br>
+
+<details>
+  <summary>Additional stats</summary>
+  <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
+<img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">
+<img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
+<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadksht&layout=compact&langs_count=10&theme=buefy">
+<img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="400">
+<img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="400">
+</details>
+
+<br>
 
 ## Learning and Using🛠:
 <table>
@@ -211,9 +220,23 @@
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25">
 </a>
 
-### Found something useful here?😍 motivate me by a coffee😊☕ <a href="https://coffeebede.ir/buycoffee/muhammadksht"><br><img width="100" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<br>
+<br>
+
+<details>
+  <summary>Found something useful here?😍 motivate me by a coffee😊☕</summary>
+  <a href="https://coffeebede.ir/buycoffee/muhammadksht"><img width="150" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+</details>    
+
+<br>
+<br>
                                                                                                         
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=ffffff&color=000000&line=30f70c&point=f700df" width="1000"/>
 
-                                                     
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" width="700"/></a>
+<br>
+
+<details>
+  <summary>My Github achievements</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadksht" alt="" width="700"/>
+</details>                                                 
+
