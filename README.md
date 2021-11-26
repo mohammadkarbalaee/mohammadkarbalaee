@@ -98,7 +98,7 @@
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="100" height="100" alt="" />
       </a>
-      <br>Atom
+      <br>Electron
     </td>
     <td align="center"  width="200">
       <a href="#">
