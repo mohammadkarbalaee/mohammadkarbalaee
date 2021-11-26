@@ -96,7 +96,7 @@
     </td>
     <td align="center"  width="200">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="100" height="100" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="100" height="100" alt="" />
       </a>
       <br>Electron
     </td>
