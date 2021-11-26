@@ -9,10 +9,9 @@
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
 <img alt="Github Viewers" width="150" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 <br>
-<br>
 
-<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy">
-<img width="400 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/>
+<img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadksht&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy">
+<img width="500 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadksht"/>
 
 <br>
 
@@ -161,8 +160,6 @@
    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="15" height="15" alt="" /> Freecodecamp Sass course <br>
 </details>
 
-<br>
-
 
 <details>
   <summary>🔵 Courses I'm taking:</summary>
@@ -172,7 +169,6 @@
    <img src="sbu-logo.svg" width="15" alt=""> Introduction to statistics and probabilities <br>
 </details>
 
-<br>  
 
 <details>
   <summary>🟢 Courses I finished successfully:</summary>
