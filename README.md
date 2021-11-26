@@ -161,6 +161,7 @@
    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="15" height="15" alt="" /> A youtube full course <br>
    <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" width="15" height="15" alt="" /> Udemy full Telegraf.js course <br>
    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="15" height="15" alt="" /> Freecodecamp Sass course <br>
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="15" height="15" alt="" /> Postman youtube course <br>
 </details>
 
 
