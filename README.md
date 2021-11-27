@@ -168,7 +168,8 @@
 
 <details>
   <summary>🔵 Courses I'm taking:</summary>
-     <br>                                                                                                       
+     <br>
+    <img src="mit-ocw.png" width="15" alt=""> MIT OCW Data structures and algorithms course <br>                                                                                                 
    <img src="sbu-logo.svg" width="15" alt=""> Data structures and algorithms course <br>
    <img src="sbu-logo.svg" width="15" alt=""> English for computer science course <br>
    <img src="sbu-logo.svg" width="15" alt=""> Introduction to linear algebra <br>
