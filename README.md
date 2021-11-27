@@ -77,7 +77,7 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="45" height="40" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="45" height="60" alt="Postman" />
       </a>
       <br>TypeScript
     </td>
