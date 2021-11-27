@@ -245,7 +245,7 @@
 <br>
 <br>
                                                                                                         
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=4d5b80&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadksht&bg_color=002046color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
 
 <br>
                                               
