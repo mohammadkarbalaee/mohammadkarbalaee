@@ -151,11 +151,11 @@
 <details>
   <summary>🟡 Courses I plan to take:</summary>
     <br>
+    <a href="https://youtube.com/playlist?list=PL8p2I9GklV46NFHdQMFBjXvxwVqtJpa2N"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="15" height="15" alt="ReactJS" /> Youtube course on building PWA apps with React</a><br> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="15" height="15" alt="CSS" /> Net Ninja's CSS animations course <br>
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15" height="15" alt="Javascript" /> JavaScript Developer Udemy course <br> 
    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="15" height="15" alt="" /> Freecode camp Express and Node course <br> 
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="15" height="15" alt="ReactJS" /> Udemy React course<br>
-   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="15" height="15" alt="ReactJS" /> Academiad React Native course<br> 
    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="15" height="15" alt="Bootstrap" /> Net Ninjas' Bootstrap course <br>
    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="15" height="15" alt="Postman" /> Academiad Typescript course <br>
    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="15" height="15" alt="MongoDB" /> Net Ninjas' MongoDB course <br>
@@ -169,7 +169,8 @@
 <details>
   <summary>🔵 Courses I'm taking:</summary>
      <br>
-    <img src="mit-ocw.png" width="15" alt=""> MIT OCW Data structures and algorithms course <br>                                                                                                 
+    <img src="mit-ocw.png" width="15" alt=""> MIT OCW Data structures and algorithms course <br>        
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="15" height="15" alt="ReactJS" /> Academiad React Native course<br>                                                                                          
    <img src="sbu-logo.svg" width="15" alt=""> Data structures and algorithms course <br>
    <img src="sbu-logo.svg" width="15" alt=""> English for computer science course <br>
    <img src="sbu-logo.svg" width="15" alt=""> Introduction to linear algebra <br>
