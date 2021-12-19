@@ -9,8 +9,8 @@
 
 ### LEARNING MORE TO DEVELOP BETTER 💪🤜
 
-### Computer Science Student💻 at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
-### Software Developer🖱 at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
+### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
+### Frontend Develope at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
 <br>
 
 <img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammad-karbalaee&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=yeblu">
