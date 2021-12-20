@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammad-karbalaee?style=rounded&color=red">
+<img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=rounded&color=red">
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=rounded&color=green">
 <img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 </p>
@@ -195,7 +195,7 @@
 
 <details>
   <summary>My Github achievements🏆</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-karbalaee" alt="" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadkarbalaee" alt="" width="700"/>
 </details>   
 
 <br>
@@ -247,7 +247,7 @@
 <br>
 <br>
                                                                                                         
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammad-karbalaee&bg_color=001732&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=001732&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
 
 <br>
                                               
