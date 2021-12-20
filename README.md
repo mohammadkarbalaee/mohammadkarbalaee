@@ -13,8 +13,8 @@
 ### Frontend Developer at <a href="https://www.roshan-ai.ir" style="color: yellow;">Roshan</a>
 <br>
 
-<img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammad-karbalaee&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=yeblu">
-<img width="500 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-karbalaee&theme=yeblu"/>
+<img alt="Github Viewers" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=yeblu">
+<img width="500 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkarbalaee&theme=yeblu"/>
 
 <br>
 
