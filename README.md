@@ -23,7 +23,7 @@
 <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">
 <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
-<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-karbalaee&layout=compact&langs_count=10&theme=buefy">
+<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
 <img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="400">
 <img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="400">
 </details>
