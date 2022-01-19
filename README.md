@@ -1,3 +1,5 @@
+<img style="position:absolute;z-index:-10;width:100%;height:100%" src="background-color.gif" width="100000000">
+
 <p align="center">
 <img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
@@ -5,12 +7,11 @@
 </p>
 <br>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
-<p align="center"><img src="greetings.gif" width="400"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
+<p align="center"><img src="hello_world.gif" width="400"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
+##### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;"><img src="sbu-logo.svg" width="25"></a>
+##### Frontend Developer at <a href="https://roshan-ai.ir" style="color: yellow;"><img src="roshan.jfif" width="25"></a>
 
-### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
-### Software Engineering Learner
 <br>
 <p align="center">
 <img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=shades-of-purple">
@@ -20,17 +21,20 @@
 <br>
 
 <details>
+<img style="position:absolute;z-index:-10;width:100%;height:100%" src="background-color.gif" width="100000000">
  <summary>Additional stats💹</summary>
-<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
-<img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="400">
-<img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="400">
-<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
-<img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="400">
-<img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="400">
+<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
+<img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="350">
+<img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="350">
+<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
+<img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="350">
+<img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="350">
 </details>
 
 <br>
 
+
+<img style="position:absolute;z-index:-10;width:100%;height:100%" src="background-color.gif" width="100000000">
 ## Learning and Using🛠:
 <table>
   <tr>
