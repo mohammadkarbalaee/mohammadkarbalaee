@@ -8,8 +8,6 @@
 <p align="center"><img src="greetings.gif" width="400"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 
-### LEARNING MORE TO DEVELOP BETTER 💪🤜
-
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 ### Software Engineering Learner
 <br>
