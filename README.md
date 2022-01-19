@@ -1,13 +1,11 @@
-<img style="position:absolute;z-index:-10;width:100%;height:100%" src="background-color.gif" width="100000000">
-
-<p align="center">
+<p align="center" style="z-index:100">
 <img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
 <img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 </p>
 <br>
 
-<p align="center"><img src="hello_world.gif" width="400"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
+<p align="center"><img src="hello_world.gif" width="600"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 ##### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;"><img src="sbu-logo.svg" width="25"></a>
 ##### Frontend Developer at <a href="https://roshan-ai.ir" style="color: yellow;"><img src="roshan.jfif" width="25"></a>
@@ -21,7 +19,6 @@
 <br>
 
 <details>
-<img style="position:absolute;z-index:-10;width:100%;height:100%" src="background-color.gif" width="100000000">
  <summary>Additional stats💹</summary>
 <img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="350">
@@ -33,8 +30,6 @@
 
 <br>
 
-
-<img style="position:absolute;z-index:-10;width:100%;height:100%" src="background-color.gif" width="100000000">
 ## Learning and Using🛠:
 <table>
   <tr>
