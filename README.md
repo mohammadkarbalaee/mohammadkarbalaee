@@ -4,7 +4,8 @@
 <img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 </p>
 <br>
-<p align="center"><img src="greetings.gif" width="500"></p>
+
+<p align="center"><img src="greetings.gif" width="300"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 
 ### LEARNING MORE TO DEVELOP BETTER 💪🤜
