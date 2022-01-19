@@ -7,8 +7,8 @@
 
 <p align="center"><img src="hello_world.gif" width="600"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
-##### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;"><img src="sbu-logo.svg" width="25"></a>
-##### Frontend Developer at <a href="https://roshan-ai.ir" style="color: yellow;"><img src="roshan.jfif" width="25"></a>
+#### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;"><img src="sbu-logo.svg" width="30></a>
+#### Frontend Developer at <a href="https://roshan-ai.ir" style="color: yellow;"><img src="roshan.jfif" width="30"></a>
 
 <br>
 <p align="center">
