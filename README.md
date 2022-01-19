@@ -8,10 +8,8 @@
 <p align="center"><img src="hello_world.gif" width="600"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 <img src="sbu-logo.svg" width="30"/> 
-
 ### Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
 <img src="roshan.jfif" width="30"/>  
-
 ### Frontend Developer at <a href="https://roshan-ai.ir" style="color: yellow;">Roshan</a>
 
 <br>
