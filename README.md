@@ -32,32 +32,26 @@
 
 <br>
 
-## Learning and Using🛠:
+## I Learn and Use🛠:
 <table>
   <tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML" />
       </a>
-      <br>HTML 5
+      <br>HTML
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
       </a>
-      <br>CSS 3
+      <br>CSS
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="Javascript" />
       </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50" alt="NodeJS" />
-      </a>
-      <br>NodeJS
+      <br>JavaScript
     </td>
     <td align="center" width="100">
       <a href="#">
@@ -73,30 +67,24 @@
     </td>
     <td align="center" width="100">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50" alt="Bootstrap" />
+        <img src="javafx.png" width="50" height="50" alt="javafx" />
       </a>
-      <br>Bootstrap
+      <br>JavaFX
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="45" height="45" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50" alt="MongoDB" />
       </a>
-      <br>TypeScript
+      <br>MySQL
     </td>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50" alt="MongoDB" />
+      <a href="#" >
+        <img src="matlab.png" width="50" height="50" alt="" />
       </a>
-      <br>MongoDB
+      <br>Matlab
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"> 
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50" alt="" />
-      </a>
-      <br>ExpressJS
-    </td>
     <td align="center" width="100">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" height="50" alt="" />
@@ -105,33 +93,27 @@
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="50" height="50" alt="" />
+        <img src="c-logo.png" width="50" height="50" alt="" />
       </a>
-      <br>Electron
-    </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" width="50" height="50" alt="" />
-      </a>
-      <br>TelegrafJS
+      <br>C/C++
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" height="50" alt="" />
       </a>
-      <br>SQLite
+      <br>TypeScript
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" height="50" alt="" />
+        <img src="asm.png" width="50" height="50" alt="" />
       </a>
-      <br>npm
+      <br>Assembly
     </td>
     <td align="center" width="100">
       <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" alt="" />
       </a>
-      <br>Redux
+      <br>Spring
     </td>
     <td align="center" width="100">
       <a href="#" >
@@ -145,10 +127,16 @@
       </a>
       <br>Sass
     </td>
+    <td align="center" width="100">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50" alt="" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>                                                                                                     
 
-<br>
+<!-- <br>
 
 <details>
   <summary>🟡 Courses I plan to take:</summary>
@@ -191,7 +179,7 @@
    <img src="sbu-logo.svg" width="15" alt=""> Maple for single-variable calculus <br>
    <img src="sbu-logo.svg" width="15" alt=""> Introduction to the set theory and logics <br>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="15" height="15" alt="Git" /> Quera Git course <br>
-</details>
+</details> -->
 
 <br>  
 
