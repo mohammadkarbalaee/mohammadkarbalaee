@@ -1,6 +1,5 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadkarbalaee&repo=jalgorithm"/>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadkarbalaee&repo=your.life"/>
 </p>
 
 <p align="center" style="z-index:100">
