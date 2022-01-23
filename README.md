@@ -1,5 +1,7 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadkarbalaee&repo=jalgorithm)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadkarbalaee&repo=jalgorithm)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadkarbalaee&repo=jalgorithm"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadkarbalaee&repo=your.life"/>
+</p>
 
 <p align="center" style="z-index:100">
 <img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
@@ -8,7 +10,7 @@
 </p>
 <br>
 
-<p align="center"><img src="hello_world.gif" width="600"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
+<p align="center"><img src="hello_world.gif" width="500"><img align="right" alt="GIF" height="110px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
  
 ### <img src="sbu-logo.svg" width="30"/> Computer Science Student at <a href="https://sbu.ac.ir" style="color: yellow;">SBU</a>
