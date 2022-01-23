@@ -131,7 +131,7 @@
       <a href="#" >
         <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50" height="70" alt="" />
       </a>
-      <br>Anroid
+      <br>Android
     </td>
   </tr>
 </table>                                                                                                     
