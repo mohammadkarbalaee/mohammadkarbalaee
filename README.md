@@ -57,7 +57,7 @@
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="75" height="75" alt="ReactJS" />
       </a>
-      <br>React & React Native
+      <br>React
     </td>
     <td align="center" width="100">
       <a href="#">
@@ -129,9 +129,9 @@
     </td>
     <td align="center" width="100">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50" alt="" />
+        <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50" height="70" alt="" />
       </a>
-      <br>MongoDB
+      <br>Anroid
     </td>
   </tr>
 </table>                                                                                                     
