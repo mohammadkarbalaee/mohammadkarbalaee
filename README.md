@@ -225,7 +225,6 @@
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25">
 </a>
 <a href="https://www.hackerrank.com/muhammad_ksht">
-
     <img src="hackerrank.svg" width="25">
 </a>
 
