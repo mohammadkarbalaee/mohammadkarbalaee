@@ -79,12 +79,6 @@
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="matlab.png" width="50" height="50" alt="" />
-      </a>
-      <br>Matlab
-    </td>
   </tr>
   <tr>
     <td align="center" width="100">
