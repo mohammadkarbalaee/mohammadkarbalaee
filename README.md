@@ -81,7 +81,7 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="50" height="50" alt="Unity" />
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" height="50" alt="Unity" />
       </a>
       <br>Unity
     </td>
