@@ -95,9 +95,9 @@
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="c-logo.png" width="50" height="50" alt="" />
+        <img src="c-logo.png" width="50" height="50" alt="c#" />
       </a>
-      <br>C/C++
+      <br>C#
     </td>
     <td align="center" width="100">
       <a href="#">
