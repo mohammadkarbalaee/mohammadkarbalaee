@@ -38,39 +38,46 @@
 
 ### For Game Development🎮(& Graphics):
 <br>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="160"  alt="Unity" />
 <img src="c-logo.png" width="60" alt="c#" />
 <img src="vs.png" width="70" alt="visual studio" />
 <img src="ps.jpg" width="70" alt="photoshop" />
 <img src="maya.jpg" width="70" alt="Maya" />
 <img src="opengl.svg" width="100" alt="ReactNative" />
+</p>
 
 ### For Backend Engineering💻:
 <br>
+<p align="center">
 <img src="c-logo.png" width="60" alt="c#" />
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" width="160" alt="photoshop" />
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="160"  alt="mongodb" />
 <img src="vs.png" width="70" alt="visual studio" />
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="70" alt="mysql" />
+</p>
 
 ### For Mobile Application Engineering📱:
 <br>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="75" height="75" alt="ReactNative" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="70" alt="Javascript" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="70" alt="" />
 <img src="androidstudio.png" width="75" height="75" alt="ReactNative" />
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" width="150" alt="ReactNative" />
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="70" alt="" />
+</p>
 
 ### For Frontend Engineering🖥:
 <br>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="75" height="75" alt="ReactNative" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="70" alt="Javascript" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="70" alt="" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70" alt="HTML" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS" />
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="70" alt="" />
-                                                                                                  
+</p>                                                                                               
 
 <!-- <br>
 
