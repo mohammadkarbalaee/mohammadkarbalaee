@@ -35,108 +35,42 @@
 <br>
 
 ## I Learn and Use🛠:
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="Javascript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="75" height="75" alt="ReactJS" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="javafx.png" width="50" height="50" alt="javafx" />
-      </a>
-      <br>JavaFX
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50" alt="MongoDB" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" height="50" alt="Unity" />
-      </a>
-      <br>Unity
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" height="50" alt="" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="c-logo.png" width="50" height="50" alt="c#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" height="50" alt="" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="asm.png" width="50" height="50" alt="" />
-      </a>
-      <br>Assembly
-    </td>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" alt="" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="50" height="50" alt="" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="100">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50" height="70" alt="" />
-      </a>
-      <br>Android
-    </td>
-  </tr>
-</table>                                                                                                     
+
+### For Game Development🎮(& Graphics):
+<br>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="160"  alt="Unity" />
+<img src="c-logo.png" width="60" alt="c#" />
+<img src="vs.png" width="70" alt="visual studio" />
+<img src="ps.jpg" width="70" alt="photoshop" />
+<img src="maya.jpg" width="70" alt="Maya" />
+<img src="opengl.svg" width="100" alt="ReactNative" />
+
+### For Backend Engineering💻:
+<br>
+<img src="c-logo.png" width="60" alt="c#" />
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" width="160" alt="photoshop" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="160"  alt="mongodb" />
+<img src="vs.png" width="70" alt="visual studio" />
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="70" alt="mysql" />
+
+### For Mobile Application Engineering📱:
+<br>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="75" height="75" alt="ReactNative" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="70" alt="Javascript" />
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="70" alt="" />
+<img src="androidstudio.png" width="75" height="75" alt="ReactNative" />
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" width="150" alt="ReactNative" />
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="70" alt="" />
+
+### For Frontend Engineering🖥:
+<br>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="75" height="75" alt="ReactNative" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="70" alt="Javascript" />
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="70" alt="" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70" alt="HTML" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS" />
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="70" alt="" />
+                                                                                                  
 
 <!-- <br>
 
