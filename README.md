@@ -8,7 +8,7 @@
 <p align="center"><img src="hello_world.gif" width="600"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
 <p align="center">
-  I prefer to drink <img src="java.gif" width="30" height="50"> 
+  I prefer to drink <img src="java.gif" width="100" height="150"> 
 </p>
 
 <br>
