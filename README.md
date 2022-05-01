@@ -7,10 +7,10 @@
 
 ## I always prefer to drink <img src="java.gif" width="100" height="100"> 
 
-<br>
+<!-- <br>
 <p align="center">
 <img src="https://github.com/muhammadkarbalaee/github-repo-stats/blob/master/generated/overview.svg"/>
-</p>
+</p> -->
 <br>
 
 <details>
@@ -65,8 +65,8 @@
 
 <br>
 <br>
-                                                                                                        
+<!--                                                                                                         
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=001732&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
 
-<br>
+<br> -->
                                             
