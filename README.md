@@ -11,8 +11,6 @@
 
 <br>
 <p align="center">
-<img alt="Github Viewers" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=shades-of-purple">
-<img width="400 alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkarbalaee&theme=shades-of-purple"/>
 <img src="https://github.com/muhammadkarbalaee/github-repo-stats/blob/master/generated/overview.svg"/>
 </p>
 <br>
