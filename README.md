@@ -13,11 +13,15 @@
 </p> -->
 <br>
 
+## My upcoming activities
+
 <ul>
- tasks
  <li>
-  cvdf
+  restarting the development of Jalgorithm
   </li>
+ <li>
+  making a portfolio website
+ </li>
 </ul>
 
 <details>
