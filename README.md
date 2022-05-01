@@ -71,5 +71,4 @@
 <img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=001732&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
 
 <br>
-                                              
-<img src="flutter_big.gif" width="1000"/>
+                                            
