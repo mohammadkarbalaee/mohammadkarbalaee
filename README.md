@@ -22,6 +22,9 @@
  <li>
   making a portfolio website
  </li>
+ <li>
+  making a full youtube course on telegram bots with Java
+ </li>
 </ul>
 
 <details>
