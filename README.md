@@ -6,8 +6,8 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="500"/>
-<img src="giphy.gif" width="200" style="border-radius:10px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="400"/>
+<img src="giphy.gif" width="300" style="border-radius:10px;"/>
 </p>
 
 <br>
