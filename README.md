@@ -28,8 +28,7 @@
 </ul>
 -->
 
-<p align="center">
-What I learn and use 🛠
+### What I learn and use 🛠
 <table>
 <tr>
 <td align="center">
@@ -128,7 +127,7 @@ Webpack
 </td>
 </tr>
 <table>
-</p>
+
 
 <details>
 <summary>My activity stats📊</summary>
