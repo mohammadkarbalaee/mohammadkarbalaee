@@ -6,9 +6,10 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=radical"/>
-<img src="giphy.gif" width="350" style="border-radius:10px;"/>
+
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark"/>
+<img src="giphy.gif" width="350" style="border-radius:10px;"/>
 
 <br>
 
@@ -82,8 +83,8 @@
 
 <br>
 <br>
-                                                                                                        
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=001732&color=ffffff&line=e8fc30&point=ff084e" width="1000"/>
+                                                                                                     
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=000000&color=6bd600&line=6bd600&point=ffffff" width="1000"/>
 
 <br>
                                             
