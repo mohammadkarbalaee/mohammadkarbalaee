@@ -83,7 +83,7 @@
 <br>
 <br>
                                                                                                      
-<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=000000&color=00628f&line=6bd600&point=ffffff" width="1000"/>
+<img alt="Contribution Activity" src="https://activity-graph.herokuapp.com/graph?username=muhammadkarbalaee&bg_color=000000&color=0095d9&line=6bd600&point=ffffff" width="1000"/>
 
 <br>
                                             
