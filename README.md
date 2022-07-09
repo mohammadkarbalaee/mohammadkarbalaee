@@ -1,4 +1,5 @@
-[course](<iframe width="560" height="315" src="https://www.youtube.com/embed/8Cd6ewamOAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Cd6ewamOAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center" style="z-index:100">
 <img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
