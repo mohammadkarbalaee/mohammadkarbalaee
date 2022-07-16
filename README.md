@@ -5,6 +5,9 @@
 </p>
 <br>
 
+### Computer Science student📚 at [SBU](https://www.sbu.ac.ir/)
+### Frontend Developer⚛ at [Roshan](https://www.roshan-ai.ir/)
+
 <p align="center">
 <img src="react.gif" width="200"/>
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="350"/>
