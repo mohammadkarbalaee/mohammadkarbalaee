@@ -1,8 +1,12 @@
-## Let's React⚛ together😁
+<p align="center">
+I always prefer to drink <img src="java.gif" width="100"/>
+</p>
 <p align="center" style="z-index:100">
 <img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
+<a href="https://wakatime.com/@muhammadksht">
 <img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
+</a>
 </p>
 <br>
 
