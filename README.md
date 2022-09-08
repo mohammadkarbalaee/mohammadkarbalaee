@@ -1,6 +1,3 @@
-<p align="center">
-I always prefer to drink <img src="java.gif" width="100"/>
-</p>
 <p align="center" style="z-index:100">
 <img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
@@ -10,14 +7,15 @@ I always prefer to drink <img src="java.gif" width="100"/>
 </p>
 <br>
 
-### Computer Science student📚 at [SBU](https://www.sbu.ac.ir/)
-### Frontend Developer⚛ at [Roshan](https://www.roshan-ai.ir/)
+### Computer Science student at [SBU](https://www.sbu.ac.ir/)
+### Backend Developer at [Roshan](https://www.roshan-ai.ir/)
 
-<p align="center">
+#### Learning and challengling myself on a daily basis 😁
+<!-- <p align="center">
 <img src="react.gif" width="200"/>
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="350"/>
 <img src="giphy.gif" width="250" style="border-radius:10px;"/>
-</p>
+</p> -->
 
 <br>
 
@@ -36,45 +34,45 @@ I always prefer to drink <img src="java.gif" width="100"/>
 </ul>
 -->
 
-### What I learn and use 🛠
+### My Interests 🛠
 <table>
 <tr>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="80"/>
 <p align="center">
-React & React Native
+    React
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="160"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="80"/>
 <p align="center">
-Node.js
+    Python
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="80"/>
 <p align="center">
-Express.js
+    Django
 </p>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="80"/>
 <p align="center">
-MongoDB
+    MongoDB
 </p>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="80"/>
 <p align="center">
-TypeScript
+    TypeScript
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="80"/>
 <p align="center">
-Electron
+    Dart
 </p>
 </td>
 <td align="center">
@@ -96,9 +94,9 @@ git
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80"/>
 <p align="center">
-GraphQL
+    Flutter
 </p>
 </td>
 </tr>
@@ -128,17 +126,16 @@ SASS
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80"/>
 <p align="center">
-Webpack
+ PostgreSQL
 </p>
 </td>
 </tr>
 <table>
 
+### My Stats
 
-<details>
-<summary>My activity stats📊</summary>
 <p align="center">
 <img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="350">
@@ -147,8 +144,6 @@ Webpack
 <img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="350">
 <img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="350">
 </p>
-</details>
-
 <br>
 
                                                                                         
