@@ -7,8 +7,16 @@
 </p>
 <br>
 
-### Computer Science student at [SBU](https://www.sbu.ac.ir/)
+<p style="font-size: 20px;" align="center">
+    <img src="sbu-logo.svg" width="40"/> Computer Science student
+</p>
+
+<p style="font-size: 20px;" align="center">
+    <img src="roshan.jfif" width="40"/> Backend Developer
+</p>
+
 ### Backend Developer at [Roshan](https://www.roshan-ai.ir/)
+</br>
 
 #### Learning and challengling myself on a daily basis 😁
 <!-- <p align="center">
@@ -33,8 +41,38 @@
  </li>
 </ul>
 -->
+### My Scientific Interests
 
-### My Interests 🛠
+<table>
+<tr>
+<td align="center">
+<img src="science/ds.jpg" width="80"/>
+<p align="center">
+    Data Science
+</p>
+</td>
+<td align="center">
+<img src="science/ml.png" width="80"/>
+<p align="center">
+    Machine Learning
+</p>
+</td>
+<td align="center">
+<img src="science/ai.png" width="80"/>
+<p align="center">
+    Artificial Intelligence
+</p>
+</td>
+<td align="center">
+<img src="science/statistics.png" width="80"/>
+<p align="center">
+    Statistics
+</p>
+</td>
+</tr>
+<table>
+
+### My SE Interests
 <table>
 <tr>
 <td align="center">
@@ -56,15 +94,9 @@
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80"/>
 <p align="center">
-    MongoDB
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="80"/>
-<p align="center">
-    TypeScript
+ PostgreSQL
 </p>
 </td>
 </tr>
@@ -76,47 +108,15 @@
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="80"/>
-<p align="center">
-SQLite
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="80"/>
-<p align="center">
-MySQL
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/>
-<p align="center">
-git
-</p>
-</td>
-<td align="center">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80"/>
 <p align="center">
     Flutter
 </p>
 </td>
-</tr>
-<tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/>
 <p align="center">
-JavaScript
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="80"/>
-<p align="center">
-HTML
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="80"/>
-<p align="center">
-CSS
+    git
 </p>
 </td>
 <td align="center">
@@ -125,25 +125,60 @@ CSS
 SASS
 </p>
 </td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80"/>
-<p align="center">
- PostgreSQL
-</p>
-</td>
 </tr>
 <table>
+
+
+### Contact me 
+
+<br>
+<a href="https://gitlab.com/muhammadksht">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="35">
+</a>
+<a href="https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="35">
+</a>
+<a href="https://www.linkedin.com/in/muhammad-karbalae?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B19Xhz8Q8QmOyP6k87j%2BeUg%3D%3D">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="35">
+</a>
+<a href="https://twitter.com/Muhammad_ksht">
+     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="35">
+</a>
+<a href="https://www.instagram.com/muhammad.ksht">
+     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35">
+</a>
+<a href="https://www.facebook.com/muhammad.karbalaeeshabani">
+     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="35">
+</a>
+<a href="http://t.me/muhammadksht">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="35">
+</a>
+<a href="mailto:muhammad.ksht@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35">
+</a>
+<a href="https://wa.me/989373899988">
+   <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="35">
+</a>
+<a href="https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="35">
+</a>
+<a href="https://www.hackerrank.com/muhammad_ksht">
+    <img src="hackerrank.svg" width="35">
+</a>
+
+</br>
 
 ### My Stats
 
 <p align="center">
+
+</p>
 <img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadksht">
 <img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="350">
 <img src="https://wakatime.com/share/@muhammadksht/550d7d10-925f-4948-b439-365f75afde45.svg" width="350">
 <img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
 <img src="https://wakatime.com/share/@muhammadksht/d413058f-8ab8-4933-8023-5b7fb2d5c381.svg" width="350">
 <img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="350">
-</p>
 <br>
 
                                                                                         
