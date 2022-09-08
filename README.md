@@ -15,7 +15,7 @@
     <img src="roshan.jfif" width="40"/> Backend Developer
 </p>
 
-### Backend Developer at [Roshan](https://www.roshan-ai.ir/)
+
 </br>
 
 #### Learning and challengling myself on a daily basis 😁
