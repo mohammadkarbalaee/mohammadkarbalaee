@@ -11,9 +11,7 @@
     <img src="sbu-logo.svg" width="40"/> Computer Science student
 </p>
 
-<p style="font-size: 20px;" align="center">
-    <img src="roshan.jfif" width="40"/> Backend Developer
-</p>
+
 
 
 </br>
