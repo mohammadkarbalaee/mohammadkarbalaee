@@ -1,22 +1,22 @@
-<p align="center" style="z-index:100">
-<img alt="GitHub followers" width="90" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
-<img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
+<p align="center" style="z-index:150">
+<img alt="GitHub followers" width="120" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
+<img alt="Github Viewers" width="160" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
 <a href="https://wakatime.com/@muhammadksht">
-<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
+<img alt="Github Viewers" width="200" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 </a>
 </p>
 <br>
 
 <p style="font-size: 20px;" align="center">
-    <img src="sbu-logo.svg" width="40"/> Computer Science student
+    <img src="sbu-logo.svg" width="80"/> 
+    </br>
+    Computer Science student
 </p>
 
 
 
+### A motivated computer science student who loves learning and challengling himself on a daily basis 😁
 
-</br>
-
-#### Learning and challengling myself on a daily basis 😁
 <!-- <p align="center">
 <img src="react.gif" width="200"/>
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="350"/>
@@ -86,15 +86,9 @@
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/>
 <p align="center">
-    Django
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80"/>
-<p align="center">
- PostgreSQL
+    git
 </p>
 </td>
 </tr>
@@ -109,18 +103,6 @@
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80"/>
 <p align="center">
     Flutter
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/>
-<p align="center">
-    git
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="80"/>
-<p align="center">
-SASS
 </p>
 </td>
 </tr>
