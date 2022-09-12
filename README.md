@@ -15,7 +15,7 @@
 
 
 
-### A motivated computer science student who loves learning and challengling himself on a daily basis 😁
+### A motivated computer science student who loves learning and challengling himself on a daily basis 
 
 <!-- <p align="center">
 <img src="react.gif" width="200"/>
