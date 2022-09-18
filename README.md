@@ -44,25 +44,25 @@
 <table>
 <tr>
 <td align="center">
-<img src="science/ds.jpg" width="80"/>
+<img src="science/ds.jpg" width="100"/>
 <p align="center">
     Data Science
 </p>
 </td>
 <td align="center">
-<img src="science/ml.png" width="80"/>
+<img src="science/ml.png" width="100"/>
 <p align="center">
     Machine Learning
 </p>
 </td>
 <td align="center">
-<img src="science/ai.png" width="80"/>
+<img src="science/ai.png" width="100"/>
 <p align="center">
     Artificial Intelligence
 </p>
 </td>
 <td align="center">
-<img src="science/statistics.png" width="80"/>
+<img src="science/statistics.png" width="100"/>
 <p align="center">
     Statistics
 </p>
@@ -74,33 +74,25 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="80"/>
-<p align="center">
-    React
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100"/>
 <p align="center">
     Python
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100"/>
 <p align="center">
     git
 </p>
 </td>
-</tr>
-<tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="100"/>
 <p align="center">
     Dart
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="100"/>
 <p align="center">
     Flutter
 </p>
