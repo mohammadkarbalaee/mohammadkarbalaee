@@ -25,20 +25,35 @@
 
 <br>
 
-<!-- ## My upcoming activities
-
+### My Goals by the end of 2022
+#### ▶: working on, ✅: done, ⭕: not started yet
 <ul>
  <li>
-  restarting the development of Jalgorithm
+  Holding a successful Flutter workshop at SBU ⭕
   </li>
  <li>
-  making a portfolio website
+  Creating content for my youtube channel to reach 100 subscribers by the end of 2022 ⭕
  </li>
  <li>
-  making a full youtube course on telegram bots with Java
+  Daily Hackerrank challenge:
+  1 python, 1 SQL, 1 database, 1 C++, 1 shell 
+  question every day. early in the morning ▶
+ </li>
+ <li>
+    Reaching 5 research interest score in hackerrank ▶ 
+ </li>
+ <li>
+    Reaching total average GPA of 18 ▶
+ </li>
+ <li>
+    Becomming a successful TA in the basic programming course ▶
+ </li>
+ <li>
+    starting a serious research paper on programming languages with an advisor ⭕
  </li>
 </ul>
--->
+
+
 ### My Scientific Interests
 
 <table>
@@ -116,13 +131,13 @@
 <a href="https://twitter.com/Muhammad_ksht">
      <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="35">
 </a>
-<a href="https://www.instagram.com/muhammad.ksht">
+<a href="https://www.instagram.com/muhammad_karbalaee">
      <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35">
 </a>
 <a href="https://www.facebook.com/muhammad.karbalaeeshabani">
      <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="35">
 </a>
-<a href="http://t.me/muhammadksht">
+<a href="http://t.me/muhammad_karbalaee">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="35">
 </a>
 <a href="mailto:muhammad.ksht@gmail.com">
