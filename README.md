@@ -52,7 +52,7 @@
     starting a serious research paper on programming languages with an advisor ⭕
  </li>
  <li>
- 1000 wakatime hours
+ 1000 wakatime hours ▶
  </li>
 </ul>
 
