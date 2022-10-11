@@ -25,7 +25,7 @@
 
 <br>
 
-### My Goals by the end of 2022
+<!-- ### My Goals by the end of 2022
 #### ▶: working on, ✅: done, ⭕: not started yet
 <ul>
  <li>
@@ -55,7 +55,7 @@
  1000 wakatime hours ▶
  </li>
 </ul>
-
+ -->
 
 ### My Scientific Interests
 
