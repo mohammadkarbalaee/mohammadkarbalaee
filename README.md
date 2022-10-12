@@ -67,8 +67,8 @@
 <table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="300"/>
-<img alt="Github Viewers" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=vue" width="400"/>
+<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
 </p>
 
 <br>
