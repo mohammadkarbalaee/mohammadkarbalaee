@@ -8,50 +8,53 @@
 </p>
 <br>
 
-<img src="hello_world.gif" width="1000"/>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="200"/>
+    <img src="hello_world.gif" width="700"/>
+</p>
+
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="150"/>
 </p>
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30"/>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30"/>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="30"/>
 </td>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50"/>
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="30"/>
     </td>    
 </tr>
 <table>
     
 <p align="center" style="white-space:nowrap;">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="200"/>   
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="150"/>   
     <img width="300" src="android.gif">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"  width="200"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"  width="150"/>
 </p>
     
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="30"/>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="30"/>
 </td>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="50"/>
+        <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30"/>
     </td> 
     <td>
-        <img src="androidstudio.png" width="50"/>
+        <img src="androidstudio.png" width="30"/>
     </td> 
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30"/>
 </td>
     <td align="center">
     <p align="center">
@@ -59,10 +62,10 @@
     </p>
     </td>
     <td align="center">
-        <img src="opengl.svg" width="50"/>
+        <img src="opengl.svg" width="30"/>
     </td>
     <td align="center">
-        <img src="c-logo.png" width="50"/>
+        <img src="c-logo.png" width="30"/>
     </td>
 </tr>
 <table>
