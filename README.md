@@ -8,6 +8,7 @@
 </p>
 <br>
 
+<img src="hello_world.gif" width="1000"/>
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="200"/>
 </p>
