@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="250"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="200"/>
 </p>
 
 <table align="center">
@@ -30,9 +30,9 @@
 <table>
     
 <p align="center" style="white-space:nowrap;">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="250"/>   
-    <img width="450" src="android.gif">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"  width="250"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="200"/>   
+    <img width="350" src="android.gif">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"  width="200"/>
 </p>
     
 <table align="center">
