@@ -80,13 +80,13 @@
 
 <table align="center">
 <td>
-<a href="https://gitlab.com/muhammadksht">
+<a href="https://gitlab.com/muhammad-karbalaee">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="35">
 </a>
 <a href="https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="35">
 </a>
-<a href="https://www.linkedin.com/in/muhammad-karbalae?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B19Xhz8Q8QmOyP6k87j%2BeUg%3D%3D">
+<a href="https://www.linkedin.com/in/muhammad-karbalae/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="35">
 </a>
 <a href="https://twitter.com/Muhammad_ksht">
