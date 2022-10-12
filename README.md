@@ -67,7 +67,6 @@
 <table>
 
 <p align="center">
-<img src="https://wakatime.com/share/@muhammadksht/0cc9083b-dab7-4b4a-aef6-6c51ef418917.svg" width="300">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="300"/>
 <img alt="Github Viewers" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
 </p>
