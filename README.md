@@ -1,3 +1,4 @@
+
 <p align="center" style="z-index:150">
 <img alt="GitHub followers" width="120" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
 <img alt="Github Viewers" width="160" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
@@ -7,112 +8,68 @@
 </p>
 <br>
 
-<p style="font-size: 20px;" align="center">
-    <img src="sbu-logo.svg" width="80"/> 
-    </br>
-    Computer Science student
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="250"/>
 </p>
 
-<!-- <p align="center">
-<img src="react.gif" width="200"/>
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="350"/>
-<img src="giphy.gif" width="250" style="border-radius:10px;"/>
-</p> -->
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="50"/>
+</td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50"/>
+    </td>    
+</tr>
+<table>
+    
+<p align="center" style="white-space:nowrap;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="250"/>   
+    <img width="450" src="android.gif">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"  width="250"/>
+</p>
+    
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50"/>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="50"/>
+</td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="50"/>
+    </td> 
+    <td>
+        <img src="androidstudio.png" width="50"/>
+    </td> 
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>
+</td>
+    <td align="center">
+    <p align="center">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+    </td>
+    <td align="center">
+        <img src="opengl.svg" width="50"/>
+    </td>
+    <td align="center">
+        <img src="c-logo.png" width="50"/>
+    </td>
+</tr>
+<table>
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=chartreuse-dark" width="350"/>
 
 <br>
-
-<!-- ### My Goals by the end of 2022
-#### ▶: working on, ✅: done, ⭕: not started yet
-<ul>
- <li>
-  Holding a successful Flutter workshop at SBU ⭕
-  </li>
- <li>
-  Creating content for my youtube channel to reach 100 subscribers by the end of 2022 ⭕
- </li>
- <li>
-  Daily Hackerrank challenge:
-  1 python, 1 SQL, 1 database, 1 C++, 1 shell 
-  question every day. early in the morning ▶
- </li>
- <li>
-    Reaching 5 research interest score in hackerrank ▶ 
- </li>
- <li>
-    Reaching total average GPA of 18 ▶
- </li>
- <li>
-    Becomming a successful TA in the basic programming course ▶
- </li>
- <li>
-    starting a serious research paper on programming languages with an advisor ⭕
- </li>
- <li>
- 1000 wakatime hours ▶
- </li>
-</ul>
- -->
-
-### My Scientific Interests
-
-<table>
-<tr>
-<td align="center">
-<img src="science/ds.jpg" width="100"/>
-<p align="center">
-    Data Science
-</p>
-</td>
-<td align="center">
-<img src="science/ml.png" width="100"/>
-<p align="center">
-    Machine Learning
-</p>
-</td>
-<td align="center">
-<img src="science/ai.png" width="100"/>
-<p align="center">
-    Artificial Intelligence
-</p>
-</td>
-<td align="center">
-<img src="science/statistics.png" width="100"/>
-<p align="center">
-    Statistics
-</p>
-</td>
-</tr>
-<table>
-
-### My SE Interests
-<table>
-<tr>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100"/>
-<p align="center">
-    Python
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100"/>
-<p align="center">
-    git
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="100"/>
-<p align="center">
-    Dart
-</p>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="100"/>
-<p align="center">
-    Flutter
-</p>
-</td>
-</tr>
-<table>
 
 
 ### Contact me 
@@ -167,6 +124,6 @@
 <img src="https://wakatime.com/share/@muhammadksht/51434af0-7469-4a5f-bab7-f0c8241cad22.svg" width="350">
 <br>
 
-                                                                                        
+                                                                                         -->
 <br>  
                                             
