@@ -8,6 +8,13 @@
 </p>
 <br>
 
+Todos
+- Watch the making game engine with java course
+- create full tutorial on how to write telegram bots with java
+- read spring in action book
+- watch deep learning with pytorch course
+
+
 <p align="center">
     <img src="hello_world.gif" width="700"/>
 </p>
