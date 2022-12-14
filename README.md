@@ -23,7 +23,7 @@ Dartists easier. 😁
 
 ---
 
-## About me
+## About me🧍‍♂️
 
 - 🖥️ Flutter Developer at [Roshan AI](https://roshan-ai.ir/)
 - 🏛️ Computer Science student at [Shahid Beheshti University](https://www.sbu.ac.ir/)
@@ -33,87 +33,141 @@ Dartists easier. 😁
 - 📗 Reading books is my preferred way of learning
 
 ---
-## My Tools & Technologies
+## My Tools & Technologies 🛠️
 
-- Mobile Development
+- Mobile & Web & Game & Backend Development
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,materialui,sqlite,mongodb,postgres" height="35"/>
+    <img src="readme_files/hive.png" height="30"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,swift,gradle,materialui,sqlite)](https://skillicons.dev)
+- Artificial Intelligence
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30"/>
+    <img src="readme_files/colab.png" height="30"/>
+    
+</p>
 
-
-- Web Development
-
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,js,react)](https://skillicons.dev)
-- Game Development
-
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,dart,flutter,cpp)](https://skillicons.dev)
-- Backend Development
-
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,html,css,js,react,git,github,gitlab,gradle,docker,kubernetes,latex)](https://skillicons.dev)
 - Favorite IDEs & Text editors
-
-[![My Skills](https://skillicons.dev/icons?i=idea,)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" height="35"/>
+    <img src="readme_files/charm.png" height="30"/>
+</p>
 
 - Design & Content creation tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,latex)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=figma,ae,pr,latex" height="35"/>
+</p>
 
+- General Software Engineering tools
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,netlify,githubactions,docker,kubernetes,md" height="35"/>
+</p>
 
-<br>
-
-
+---
+## My Book Shelf 📚
 <table align="center">
-<td>
-<a href="https://gitlab.com/muhammad-karbalaee">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="35">
-</a>
-<a href="https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="35">
-</a>
-<a href="https://www.linkedin.com/in/muhammad-karbalae/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="35">
-</a>
-<a href="https://twitter.com/Muhammad_ksht">
-     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="35">
-</a>
-<a href="https://www.instagram.com/muhammad_karbalaee">
-     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35">
-</a>
-<a href="https://www.facebook.com/muhammad.karbalaeeshabani">
-     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="35">
-</a>
-<a href="http://t.me/muhammad_karbalaee">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="35">
-</a>
-<a href="mailto:muhammad.ksht@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35">
-</a>
-<a href="https://wa.me/989373899988">
-   <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="35">
-</a>
-<a href="https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="35">
-</a>
-<a href="https://www.hackerrank.com/muhammad_ksht">
-    <img src="hackerrank.svg" width="35">
-</a>
-</td>
+    <tr>
+        <td align="center">
+            <b>
+                Reading ▶️
+            </b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="readme_files/books/dartinaction.png" width="150"/>
+            <br>
+            Dart in Action
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <b>
+                Read 💯
+            </b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <b>
+                Wishlist ♾️
+            </b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="readme_files/books/makeyourownnn.jpg" width="150"/>
+            <br>
+            Make your own Neural Network
+        </td>
+    </tr>
 </table>
 
-</br>
- 
-    
-### Donation ☕
-Your donations help me build new projects and create useful content for you. ☺️
+--- 
+## My coding stats 📊
 
+---
+
+## Let's stay in touch ☺️
+Click on every contact link down below and I would love 
+to talk to you about anything.
+<p align="left">
+<a href="https://gitlab.com/muhammad-karbalaee">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="30">
+</a>
+<a href="https://www.youtube.com/channel/UCI1BKsmNKbCVfxsxjL7SSRQ">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30">
+</a>
+<a href="https://www.linkedin.com/in/muhammad-karbalae/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30">
+</a>
+<a href="https://twitter.com/Muhammad_ksht">
+     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="30">
+</a>
+<a href="https://www.instagram.com/muhammad_karbalaee">
+     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="30">
+</a>
+<a href="https://www.facebook.com/muhammad.karbalaeeshabani">
+     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30">
+</a>
+<a href="http://t.me/muhammad_karbalaee">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="30">
+</a>
+<a href="mailto:muhammad.ksht@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30">
+</a>
+<a href="https://wa.me/989373899988">
+   <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="30">
+</a>
+<a href="https://stackoverflow.com/users/14618677/muhammad-karbalaee-shabani">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="30">
+</a>
+<a href="https://www.hackerrank.com/muhammad_ksht">
+    <img src="hackerrank.svg" width="30">
+</a>
+</p>
+
+---    
+
+## Buy me a Coffee ☕
+If you found my content and open-source projects useful, Buy me 
+a coffee to help me keep creating the content and projects you like. ☺️
 <a href="https://coffeebede.ir/buycoffee/muhammadksht">
-    Rials👇
-    <br>
-    <img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-    <br>
 <br>
+<img width="150" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" />
+</a>
+
+<details>
+    <summary>For crypto lovers😉💸</summary>
     <a href="https://link.trustwallet.com/send?coin=0&address=bc1qnm05lpkjz0pal33k5ql7vctayqu2vvfqf4cytt">
-      <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" width="30" alt="bitcoin"/>
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" width="30" alt="bitcoin"/>
+</a>
 
 ```
 bc1qnm05lpkjz0pal33k5ql7vctayqu2vvfqf4cytt
@@ -162,8 +216,14 @@ TGVuMmEpdZELjHZvYiPi5YZoQchUJk7b3A
 ```
 
 <a href="mailto:muhammad.ksht@gmail.com">
-     contact us for any other payment method you desire
+     Wanna support but don't want to use the previous methods?
+     Contact me please.🙏
      <br>
      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30" alt="USDT"/>
 </a>
-<br>
+</details>
+
+
+---
+
+## My Coding Journey 💫
