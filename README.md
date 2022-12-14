@@ -66,7 +66,7 @@ Dartists easier. 😁
 
 - General Software Engineering tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,netlify,githubactions,docker,kubernetes,md" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,gradle,netlify,githubactions,docker,kubernetes,md" height="35"/>
 </p>
 
 ---
@@ -111,8 +111,22 @@ Dartists easier. 😁
 
 --- 
 ## My coding stats 📊
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/muhammadkarbalaee/langs)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/muhammadkarbalaee/repositories)](https://githubtrends.io)
+<table align="center">
+      <tr>
+          <td><img src="https://api.githubtrends.io/user/svg/muhammadkarbalaee/langs" width="400" /></td>
+          <td><img src="https://api.githubtrends.io/user/svg/muhammadkarbalaee/repos" width="400" /></td>
+      </tr>
+      <tr>           
+            <td><img src="https://wakatime.com/share/@muhammadksht/711a874d-82bd-469b-ac97-f3525a57fc04.svg" width="400"/></td>
+            <td><img src="https://wakatime.com/share/@muhammadksht/ac2420f1-4fd2-4e8c-8d86-27c22ec71914.svg" width="400"/></td>
+      </tr>      
+      <tr>
+            <td><img src="https://wakatime.com/share/@muhammadksht/4bc4b680-3b27-4da2-bde7-535cd211d0a5.svg" width="400"/></td>
+            <td><img src="https://wakatime.com/share/@muhammadksht/7dc0b46b-fab4-44c5-b456-31af9d337608.svg" width="400"/></td>
+      </tr>
+</table>      
+
+
 ---
 
 ## Let's stay in touch ☺️
@@ -224,7 +238,3 @@ TGVuMmEpdZELjHZvYiPi5YZoQchUJk7b3A
 </a>
 </details>
 
-
----
-
-## My Coding Journey 💫
