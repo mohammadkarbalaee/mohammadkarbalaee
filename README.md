@@ -1,5 +1,5 @@
 # 🎯 Muhammad Karbalaee
-**`Dart Developer & Content Creator`**
+**`Dartist(Dart Developer) & Content Creator`**
 
 I'm a Dart Developer and I have been coding in dart for the past two years. Besides the time I spend
 on coding Dart and Flutter projects at work, I enjoy making open-source projects to help the Dart community
@@ -33,9 +33,30 @@ Dartists easier. 😁
 - 📗 Reading books is my preferred way of learning
 
 ---
+## My Tools & Technologies
 
-## Languges and Tools I use
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+- Mobile Development
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,swift,gradle,materialui,sqlite)](https://skillicons.dev)
+
+
+- Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,js,react)](https://skillicons.dev)
+- Game Development
+
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,dart,flutter,cpp)](https://skillicons.dev)
+- Backend Development
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,kotlin,html,css,js,react,git,github,gitlab,gradle,docker,kubernetes,latex)](https://skillicons.dev)
+- Favorite IDEs & Text editors
+
+[![My Skills](https://skillicons.dev/icons?i=idea,)](https://skillicons.dev)
+
+- Design & Content creation tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,latex)](https://skillicons.dev)
+
 
 <br>
 
