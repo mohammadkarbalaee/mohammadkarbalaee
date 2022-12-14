@@ -111,7 +111,8 @@ Dartists easier. 😁
 
 --- 
 ## My coding stats 📊
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/muhammadkarbalaee/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/muhammadkarbalaee/repositories)](https://githubtrends.io)
 ---
 
 ## Let's stay in touch ☺️
