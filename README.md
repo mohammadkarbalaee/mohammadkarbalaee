@@ -61,7 +61,7 @@ Dartists easier. 😁
 - Design & Content creation tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,ae,pr,latex" height="35"/>
+    <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,latex" height="35"/>
 </p>
 
 - General Software Engineering tools
