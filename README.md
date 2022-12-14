@@ -1,86 +1,41 @@
+# 🎯 Muhammad Karbalaee
+**`Dart Developer & Content Creator`**
 
-<p align="center" style="z-index:150">
-<img alt="GitHub followers" width="120" src="https://img.shields.io/github/followers/muhammadkarbalaee?style=plastic&color=red">
-<img alt="Github Viewers" width="160" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
-<a href="https://wakatime.com/@muhammadksht">
-<img alt="Github Viewers" width="200" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
-</a>
-</p>
-<br>
+I'm a Dart Developer and I have been coding in dart for the past two years. Besides the time I spend
+on coding Dart and Flutter projects at work, I enjoy making open-source projects to help the Dart community
+grow bigger and stronger. High-quality content creation is my cup of tea so once in a time, I make programming 
+videos, mainly focused on my beloved dart as you might have guessed 😉, in my Youtube channel. 
+I am the founder of [Dart is Art community](http://dart-is-art.ir/) which aims to make the life of 
+Dartists easier. 😁
 
-<!-- Todos
-- Watch the making game engine with java course
-- create full tutorial on how to write telegram bots with java
-- read spring in action book
-- watch deep learning with pytorch course -->
+<p align="left">
+      <a href="https://www.youtube.com/@muhammad-karbalaee">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCI1BKsmNKbCVfxsxjL7SSRQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@muhammad-karbalaee">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCI1BKsmNKbCVfxsxjL7SSRQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/muhammadkarbalaee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muhammadkarbalaee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+   
+   [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadkarbalaee&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+---
 
-<p align="center">
-    <img src="hello_world.gif" width="700"/>
-</p>
+## About me
 
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="150"/>
-</p>
+- 🖥️ Flutter Developer at [Roshan AI](https://roshan-ai.ir/)
+- 🏛️ Computer Science student at [Shahid Beheshti University](https://www.sbu.ac.ir/)
+- 📈 Founder and Dart Developer at [Dart is Art](http://dart-is-art.ir)
+- ❤️ I love writing Dart, and building open-source projects and video content 
+- 🎮 Gaming is my hobby and I plan to build lots of multiplatform games using Flutter and Flame
+- 📗 Reading books is my preferred way of learning
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30"/>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30"/>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="30"/>
-</td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="30"/>
-    </td>    
-</tr>
-<table>
-    
-<p align="center" style="white-space:nowrap;">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="150"/>   
-    <img width="300" src="android.gif">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"  width="150"/>
-</p>
-    
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="30"/>
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="30"/>
-</td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30"/>
-    </td> 
-    <td>
-        <img src="androidstudio.png" width="30"/>
-    </td> 
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30"/>
-</td>
-    <td align="center">
-    <p align="center">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </p>
-    </td>
-    <td align="center">
-        <img src="opengl.svg" width="30"/>
-    </td>
-    <td align="center">
-        <img src="c-logo.png" width="30"/>
-    </td>
-</tr>
-<table>
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadkarbalaee&show_icons=true&theme=vue" width="400"/>
-<img alt="Github Viewers" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarbalaee&layout=compact&langs_count=10&theme=buefy">
-</p>
+## Languges and Tools I use
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 <br>
 
