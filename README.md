@@ -109,6 +109,18 @@ Dartists easier. 😁
             <br>
             Make your own Neural Network
         </td>
+        <td align="center">
+            <img src="readme_files/books/db.jpg" width="150"/>
+            <br>
+        </td>
+        <td align="center">
+            <img src="readme_files/books/se.jpg" width="150"/>
+            <br>
+        </td>
+        <td align="center">
+            <img src="readme_files/books/ml.jpg" width="150"/>
+            <br>
+        </td>
     </tr>
 </table>
 
