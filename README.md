@@ -23,7 +23,7 @@ Dartists easier. 😁
    </p>
 
 <img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
-<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg
+<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg">
 
    
    [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadkarbalaee&theme=dark&hide_border=true)](https://git.io/streak-stats)
