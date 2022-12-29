@@ -21,6 +21,10 @@ Dartists easier. 😁
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muhammadkarbalaee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+<img alt="Github Viewers" width="130" src="https://komarev.com/ghpvc/?username=muhammadksht&style=plastic&color=green">
+<img alt="Github Viewers" width="170" src="https://wakatime.com/badge/user/2fc4b18b-ec8f-46e8-be9b-2b05a111037b.svg
+
    
    [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadkarbalaee&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -112,14 +116,20 @@ Dartists easier. 😁
         <td align="center">
             <img src="readme_files/books/db.jpg" width="150"/>
             <br>
+            Database
         </td>
         <td align="center">
             <img src="readme_files/books/se.jpg" width="150"/>
             <br>
+            Software Engineering
         </td>
         <td align="center">
             <img src="readme_files/books/ml.jpg" width="150"/>
             <br>
+            Machine Learning
+        </td>
+        <td align="center">
+            Flutter in Action
         </td>
     </tr>
 </table>
