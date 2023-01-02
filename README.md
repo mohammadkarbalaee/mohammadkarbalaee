@@ -44,7 +44,7 @@ Dartists easier. 😁
 
 - Mobile & Web & Game & Backend Development
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,materialui,sqlite,mongodb,postgres" height="35"/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,materialui,sqlite,mongodb,postgres,kotlin,java,swift" height="35"/>
     <img src="readme_files/hive.png" height="30"/>
 </p>
 
