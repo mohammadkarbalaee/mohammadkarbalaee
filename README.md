@@ -1,31 +1,4 @@
 # 🎯 Muhammad Karbalaee
-
-```dart
-import 'package:flutter/materail.dart';
-
-class JobTitle extends StatelessWidget {
-  String jobTitle = 'Flutter Developer';
-  JobTitle({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        body: Container(
-          child: Center(
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.center,
-              children: [
-                FlutterLogo(),
-                Text(this.jobTitle)
-              ],
-            ),
-          ),
-        ),
-    );
-  }
-}
-```
 **`Dartist(Dart Developer) & Content Creator`**
 
 I'm a Dart Developer and I have been coding in dart for the past two years. Besides the time I spend
@@ -53,6 +26,36 @@ Dartists easier. 😁
    [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadkarbalaee&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
+
+
+
+```dart
+import 'package:flutter/materail.dart';
+
+class JobTitle extends StatelessWidget {
+  String jobTitle = 'Flutter Developer';
+  JobTitle({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        body: Container(
+          child: Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                FlutterLogo(),
+                Text(this.jobTitle)
+              ],
+            ),
+          ),
+        ),
+    );
+  }
+}
+```
+
 
 ## About me🧍‍♂️
 
