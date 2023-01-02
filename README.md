@@ -1,6 +1,30 @@
 # 🎯 Muhammad Karbalaee
+
 ```dart
-String jobTitle = 'Flutter Developer';
+import 'package:flutter/materail.dart';
+
+class JobTitle extends StatelessWidget {
+  String jobTitle = 'Flutter Developer';
+  JobTitle({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        body: Container(
+          child: Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                FlutterLogo(),
+                Text(this.jobTitle)
+              ],
+            ),
+          ),
+        ),
+    );
+  }
+}
 ```
 **`Dartist(Dart Developer) & Content Creator`**
 
