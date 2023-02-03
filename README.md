@@ -59,7 +59,7 @@ class JobTitle extends StatelessWidget {
 
 ## About me🧍‍♂️
 
-- 🖥️ Flutter Developer at [Roshan AI](https://roshan-ai.ir/)
+- 🖥️ Flutter Developer
 - 🏛️ Computer Science student at [Shahid Beheshti University](https://www.sbu.ac.ir/)
 - 📈 Founder and Dart Developer at [Dart is Art](http://dart-is-art.ir)
 - ❤️ I love writing Dart, and building open-source projects and video content 
