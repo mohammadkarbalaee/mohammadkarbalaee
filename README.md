@@ -1,5 +1,5 @@
 # 🎯 Muhammad Karbalaee
-**`Dartist(Dart Developer) & Content Creator`**
+**`Mobile Application Developer | Flutter`**
 
 I'm a Dart Developer and I have been coding in dart for the past two years. Besides the time I spend
 on coding Dart and Flutter projects at work, I enjoy making open-source projects to help the Dart community
