@@ -102,7 +102,7 @@ class JobTitle extends StatelessWidget {
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,gradle,netlify,githubactions,docker,kubernetes,md" height="35"/>
 </p>
-
+<!-- 
 ---
 ## My Book Shelf 📚
 <table align="center">
@@ -160,7 +160,7 @@ class JobTitle extends StatelessWidget {
         </td>
     </tr>
 </table>
-
+ -->
 --- 
 ## My coding stats 📊
 <table align="center">
