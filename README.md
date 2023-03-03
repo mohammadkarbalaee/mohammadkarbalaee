@@ -2,6 +2,7 @@
 <p align="center"><img src="greetings.gif" width="600"/></p>
 
 **`Mobile Application Developer | Flutter`**
+
 When it comes to software engineering, nothing is as interesting as the **Mobile Application Development** world.
 I have been learning mobile development throughout my whole career and worked with various teams and companies all across the
 blobe. My main expertise is Flutter, However, I can develop native applications for both __Android__ and __iOS__ using Kotling, Java and
