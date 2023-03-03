@@ -1,12 +1,9 @@
-# 🎯 Muhammad Karbalaee
+# 🎯 Mohammad Karbalaee
 **`Mobile Application Developer | Flutter`**
-
-I'm a Dart Developer and I have been coding in dart for the past two years. Besides the time I spend
-on coding Dart and Flutter projects at work, I enjoy making open-source projects to help the Dart community
-grow bigger and stronger. High-quality content creation is my cup of tea so once in a time, I make programming 
-videos, mainly focused on my beloved dart as you might have guessed 😉, in my Youtube channel. 
-I am the founder of [Dart is Art community](http://dart-is-art.ir/) which aims to make the life of 
-Dartists easier. 😁
+When it comes to software engineering, nothing is as interesting as the **Mobile Application Development** world.
+I have been learning mobile development throughout my whole career and worked with various teams and companies all across the
+blobe. My main expertise is Flutter, However, I can develop native applications for both __Android__ and __iOS__ using Kotling, Java and
+Swift. No one is perfect. Neither do I. That's why I try to learn new things and deepen my knowledge everyday. 😊
 
 <p align="left">
       <a href="https://www.youtube.com/@muhammad-karbalaee">
@@ -59,23 +56,27 @@ class JobTitle extends StatelessWidget {
 
 ## About me🧍‍♂️
 
-- 🖥️ Flutter Developer
+- 🖥️ Mobile Application Developer at [Roshan AI](https://roshan-ai.ir/)
 - 🏛️ Computer Science student at [Shahid Beheshti University](https://www.sbu.ac.ir/)
-- 📈 Founder and Dart Developer at [Dart is Art](http://dart-is-art.ir)
-- ❤️ I love writing Dart, and building open-source projects and video content 
+- ❤️ I building open-source projects and video and written content 
 - 🎮 Gaming is my hobby and I plan to build lots of multiplatform games using Flutter and Flame
 - 📗 Reading books is my preferred way of learning
 
 ---
-## My Tools & Technologies 🛠️
+## My Tools & Technologies 🛠
 
-- Mobile & Web & Game & Backend Development
+- Mobile Application Development 📲
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,materialui,sqlite,mongodb,postgres,kotlin,java,swift" height="35"/>
-    <img src="readme_files/hive.png" height="30"/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,materialui,sqlite,mongodb,kotlin,java,swift" height="50"/>
+    <img src="readme_files/hive.png" height="50"/>
 </p>
 
-- Artificial Intelligence
+- Web Development 🌐
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js" height="50"/>
+</p>
+
+<!-- - Artificial Intelligence
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" height="35"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30"/>
@@ -84,23 +85,22 @@ class JobTitle extends StatelessWidget {
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30"/>
     <img src="readme_files/colab.png" height="30"/>
     
-</p>
+</p> -->
 
 - Favorite IDEs & Text editors
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" height="35"/>
-    <img src="readme_files/charm.png" height="30"/>
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" height="50"/>
 </p>
 
-- Design & Content creation tools
+- Design & Content creation tools 🖼
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,latex" height="35"/>
+    <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,latex" height="50"/>
 </p>
 
 - General Software Engineering tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,gradle,netlify,githubactions,docker,kubernetes,md" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,gradle,netlify,githubactions,docker,kubernetes,md" height="50"/>
 </p>
 <!-- 
 ---
