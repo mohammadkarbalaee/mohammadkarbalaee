@@ -69,7 +69,7 @@ class JobTitle extends StatelessWidget {
 
 - Mobile Application Development 📲
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,materialui,sqlite,mongodb,kotlin,java,swift" height="50"/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,swift" height="50"/>
     <img src="readme_files/hive.png" height="50"/>
 </p>
 
