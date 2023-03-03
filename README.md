@@ -1,5 +1,5 @@
 # Mohammad Karbalaee 👨🏻‍💻
-<img src="greetings.gif" width="10000"/>
+<p align="center"><img src="greetings.gif" width="600"/></p>
 
 **`Mobile Application Developer | Flutter`**
 When it comes to software engineering, nothing is as interesting as the **Mobile Application Development** world.
