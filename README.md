@@ -2,7 +2,6 @@
 
 Discover a diverse collection of my professional work, highlighting a blend of creativity and technical expertise across multiple domains. From innovative software engineering projects and advanced programming solutions to in-depth computer science explorations and captivating UI/UX designs, this portfolio reflects my commitment to delivering excellence and pushing the boundaries of technology.
 
----
 
 <details>
   <summary><strong>💻 Programming</strong></summary>
@@ -47,7 +46,6 @@ Discover a diverse collection of my professional work, highlighting a blend of c
 
 </details>
 
----
 
 
 <details>
@@ -81,5 +79,4 @@ Discover a diverse collection of my professional work, highlighting a blend of c
 
 </details>
 
----
 
