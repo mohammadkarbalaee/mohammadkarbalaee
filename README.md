@@ -1,10 +1,11 @@
-## Programming Sample  
+# My Portfolio
 
 <details>
-  <summary><strong>Project 1: JAlgorithm</strong></summary>
+  <summary><strong>Programming Sample</strong></summary>
 
+  <details>
+  <summary><strong>Project 1️⃣: JAlgorithm</strong></summary>
 
-  **Description:**  
   JAlgorithm is a Java-based, open-source library that provides implementations of various algorithms and data structures. Designed for students, developers, and educators, it is both an educational resource and a practical tool for algorithmic problem-solving. The project has been published as a Java library, making it accessible for direct integration into Java applications. Its open-source nature has encouraged contributions, adding to its utility and robustness.
 
   **Key Features:**  
@@ -37,7 +38,36 @@
   - [**Live Demo**](#)  
 
 </details>
----
 
-## Design Portfolio
+</details>
 
+<details>
+  <summary><strong>Design Portfolio</strong></summary>
+
+  ### Design Project 1: Website Redesign  
+
+  **Description:**  
+  Redesigned a modern, responsive website for a tech company, focusing on UX/UI best practices. The design was created using Figma and implemented using HTML, CSS, and JavaScript.
+
+  **Key Features:**  
+  - Mobile-first responsive design  
+  - User-centric navigation flow  
+  - Integration of custom graphics and animations  
+
+  **Links:**  
+  - [**View Design Mockups**](#)  
+
+  ### Design Project 2: Brand Identity  
+
+  **Description:**  
+  Developed a cohesive brand identity for a startup, including logo design, color palette, and typography guidelines.
+
+  **Key Features:**  
+  - Unique and memorable logo  
+  - Brand consistency across digital and print media  
+  - Detailed brand style guide  
+
+  **Links:**  
+  - [**View Branding Guidelines**](#)  
+
+</details>
