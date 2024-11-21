@@ -1,10 +1,16 @@
-# My Portfolio
+## 🗂️ My Portfolio
+
+Discover a diverse collection of my professional work, highlighting a blend of creativity and technical expertise across multiple domains. From innovative software engineering projects and advanced programming solutions to in-depth computer science explorations and captivating UI/UX designs, this portfolio reflects my commitment to delivering excellence and pushing the boundaries of technology.
+
+---
 
 <details>
-  <summary><strong>Programming Sample</strong></summary>
+  <summary><strong>💻 Programming</strong></summary>
+
+  <br/>
 
   <details>
-  <summary><strong>Project 1️⃣: JAlgorithm</strong></summary>
+  <summary><strong>1️⃣: JAlgorithm</strong></summary>
 
   JAlgorithm is a Java-based, open-source library that provides implementations of various algorithms and data structures. Designed for students, developers, and educators, it is both an educational resource and a practical tool for algorithmic problem-solving. The project has been published as a Java library, making it accessible for direct integration into Java applications. Its open-source nature has encouraged contributions, adding to its utility and robustness.
 
@@ -41,8 +47,11 @@
 
 </details>
 
+---
+
+
 <details>
-  <summary><strong>Design Portfolio</strong></summary>
+  <summary><strong>🎨 Design</strong></summary>
 
   ### Design Project 1: Website Redesign  
 
@@ -71,3 +80,6 @@
   - [**View Branding Guidelines**](#)  
 
 </details>
+
+---
+
