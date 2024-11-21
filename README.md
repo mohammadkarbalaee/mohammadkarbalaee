@@ -1,7 +1,8 @@
-## 🗂️ My Portfolio
+# 🗂️ **My Portfolio**
 
-**Discover a diverse collection of my professional work**, highlighting a blend of *creativity* and *technical expertise* across multiple domains. From innovative **software engineering projects** and advanced **programming solutions** to in-depth **computer science explorations** and captivating **UI/UX designs**, this portfolio reflects my commitment to delivering **excellence** and pushing the boundaries of *technology*.
+*Showcasing a fusion of creativity, innovation, and user-centered design.*  
 
+From *refined UI/UX designs* and *intuitive software solutions* to *insightful user research*, this portfolio reflects my drive to create impactful experiences. With a focus on **precision**, **cutting-edge tools**, and **human-centered thinking**, I’m dedicated to pushing the boundaries of **User Experience Design**.
 
 <details>
   <summary><strong>💻 Programming</strong></summary>
