@@ -94,6 +94,40 @@ From *refined UI/UX designs* and *intuitive software solutions* to *insightful u
 
 </details>
 
+<details>
+  <summary><strong>4️⃣ API Documentation Website</strong></summary>
+
+  <img src="images/roshan/docs.png" width="500"/> 
+
+
+  **Description:**  
+  This project involves creating a comprehensive API documentation website for the Alefba product, a part of Roshan AI. The website is designed to provide developers with clear, detailed, and easy-to-navigate documentation, enabling seamless integration with Alefba's APIs. It focuses on usability, ensuring that developers can quickly find the information they need.
+
+  **Technologies Used:**  
+  - **React.js:** For building a dynamic and responsive user interface.  
+  - **Markdown and HTML:** For structuring and presenting the documentation content.  
+  - **CSS and JavaScript:** For styling and interactivity.  
+  - **API Integration:** Connected with live API endpoints for interactive documentation.
+
+  **Key Features:**  
+  - **Interactive Documentation:** Includes live examples and endpoints for real-time API testing.  
+  - **Searchable Content:** Quick search functionality to help developers find specific sections or endpoints.  
+  - **Developer-Friendly Design:** Clean and minimal UI to maximize focus on the documentation.  
+  - **Responsive and Accessible:** Optimized for both desktop and mobile viewing.  
+  - **Mobile-Friendly:** Fully functional and user-friendly on smaller screens.  
+
+
+  **Links:**  
+  - [**Github Repository**](https://github.com/roshan-research/docs)
+  - [**Alefba API Documentation**](https://www.roshan-ai.ir/docs/alefba)  
+
+  **Demo Video:**  
+  - [**Desktop Demo**](https://drive.google.com/file/d/1oFs2yBYRiGSs6AMe6PDOsrzT9r80XxTR/view?usp=sharing)
+  - [**Mobile Demo**](https://drive.google.com/file/d/1yBu1gYKSHttEANgKGDraRgsey33EaIgt/view?usp=sharing)    
+
+</details>
+
+
 
 </details>
 
