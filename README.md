@@ -206,6 +206,62 @@ From *refined UI/UX designs* and *intuitive software solutions* to *insightful u
 
 </details>
 
+<details>
+  <summary><strong>8️⃣ BrainScanApp</strong></summary>
+
+
+  <img src="images/brain.png" width="250"/> 
+
+  **Description:**  
+  BrainScanApp is an Android application designed to assist in the detection of brain tumors using medical imaging. The app leverages a trained deep learning model to analyze input images and provide diagnostic insights. Its intuitive interface and efficient processing make it a useful tool for medical professionals and researchers in the field of radiology and neurology.
+
+  **Technologies Used:**  
+  - **Android (Java/Kotlin):** For building the mobile application.  
+  - **TensorFlow Lite:** To integrate and deploy the trained model for real-time inference on mobile devices.  
+  - **Deep Learning Models:** Trained for brain tumor detection using medical image datasets.  
+
+  **Key Features:**  
+  - **AI-Powered Diagnosis:** Utilizes a trained deep learning model to detect brain tumors with high accuracy.  
+  - **User-Friendly Interface:** Simple and clean design for seamless navigation and interaction.  
+  - **Image Upload and Analysis:** Allows users to upload medical images for real-time evaluation.  
+  - **On-Device Inference:** Optimized for mobile devices using TensorFlow Lite for fast and efficient analysis.  
+  - **Medical Applications:** Useful for preliminary screening and educational purposes.  
+
+  **Links:**  
+  - [**GitHub Repository**](https://github.com/mohammadkarbalaee/BrainScanApp)  
+  - [**Report on ResearchGate**](https://www.researchgate.net/publication/373450302_Practical_Brain_Tumor_Detection_Image_processing_course's_final_project_Spring_2023_at_SBU)
+
+  **Demo Video:**  
+  - [**Watch the Demo**](https://drive.google.com/file/d/1MNftwYHQGLaceV35tAPWx4Fzb8_PQY5i/view?usp=sharing)  
+
+</details>
+
+<details>
+  <summary><strong>9️⃣ Instagram Desktop Application</strong></summary>
+
+
+  <img src="images/insta1.png" width="500"/> 
+
+  <img src="images/insta2.png" width="500"/> 
+
+  **Description:**  
+  This project is a desktop application built entirely with Java and JavaFX, designed to replicate the core functionalities of Instagram. As a clone of the platform, it mimics features like user feed, profile management, and direct messaging without using Instagram's API. The application is focused on delivering a similar experience to Instagram but as a standalone desktop solution.
+
+  **Technologies Used:**  
+  - **Java:** For building the application's backend and logic.  
+  - **JavaFX:** For creating a modern and responsive user interface.  
+
+  **Key Features:**  
+  - **Standalone Desktop Application:** Operates independently of Instagram's API or backend.  
+  - **Feature-Rich Clone:** Includes feed browsing, profile management, and messaging functionality.  
+  - **Modern UI:** Built using JavaFX to replicate the look and feel of Instagram.  
+  - **Cross-Platform Compatibility:** Can run on Windows, macOS, and Linux systems.  
+  - **Offline Mode:** Limited functionality available without an internet connection.  
+
+  **Links:**  
+  - [**GitHub Repository**](https://github.com/mohammadkarbalaee/instagram-desktop-application)  
+
+</details>
 
 
 </details>
