@@ -179,6 +179,34 @@ From *refined UI/UX designs* and *intuitive software solutions* to *insightful u
 
 </details>
 
+<details>
+  <summary><strong>7️⃣ Suffix Tree Visualizer</strong></summary>
+
+  <img src="images/suffix.png" width="500"/> 
+
+  **Description:**  
+  This project provides a visual representation of suffix trees, a powerful data structure used in string processing and computational biology. The interactive visualizer is designed to help users understand the construction and functionality of suffix trees, making it an excellent tool for educational purposes. The project is built using web technologies to offer a seamless and responsive user experience.
+
+  **Technologies Used:**  
+  - **HTML, CSS, JavaScript:** For creating the web-based interface and interactivity.  
+  - **SVG Graphics:** For rendering clean and scalable visualizations of suffix trees.  
+
+  **Key Features:**  
+  - **Interactive Visualization:** Allows users to input strings and see real-time construction of suffix trees.  
+  - **Educational Focus:** Simplifies complex concepts for students and professionals.  
+  - **Responsive Design:** Optimized for desktop and mobile devices.  
+  - **String Processing Applications:** Highlights the real-world use cases of suffix trees in areas like DNA sequencing and pattern matching.
+
+  **Links:**  
+  - [**Live Visualizer**](https://mohammadkarbalaee.github.io/suffix-tree/website/visualizer/)  
+  - [**GitHub Repository**](https://github.com/mohammadkarbalaee/suffix-tree)  
+
+  **Demo Video:**  
+  - [**Watch the Demo**](https://drive.google.com/file/d/1sxnE70DV_hVU4oQ4NZBIVW-GRaGa0YnC/view?usp=sharing)  
+
+</details>
+
+
 
 </details>
 
