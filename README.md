@@ -152,7 +152,32 @@ From *refined UI/UX designs* and *intuitive software solutions* to *insightful u
 
 </details>
 
+<details>
+  <summary><strong>6️⃣ Particle Systems Visualization</strong></summary>
 
+  <img src="images/particle.png" width="500"/> 
+
+  **Description:**  
+  This project is a web-based interactive particle systems visualization. It demonstrates the principles of particle systems used in computer graphics and simulations, showcasing dynamic animations and effects. Built using HTML, CSS, and JavaScript, the project offers an engaging and visually appealing example of how particle systems can be implemented for educational or creative purposes.
+
+  **Technologies Used:**  
+  - **HTML, CSS, JavaScript:** For creating and styling the interactive particle effects.  
+  - **Canvas API:** Utilized for rendering high-performance graphics directly in the browser.  
+
+  **Key Features:**  
+  - **Dynamic Particle Effects:** Includes animations such as explosions, trails, and gravity effects.  
+  - **Interactive Visualization:** Allows users to interact with the particles for an immersive experience.  
+  - **Educational Purpose:** Demonstrates the core concepts of particle systems for learning and exploration.  
+  - **Browser-Based:** Fully functional without requiring any additional installations.  
+
+  **Links:**  
+  - [**Live Demo**](https://mohammadkarbalaee.github.io/particle-systems/)  
+  - [**GitHub Repository**](https://github.com/mohammadkarbalaee/particle-systems)  
+
+  **Demo Video:**  
+  - [**Watch the Demo**](https://drive.google.com/file/d/1NXvE9SiOB6QPMM7BsW3nTkj3tcv2TVnW/view?usp=sharing)  
+
+</details>
 
 
 </details>
