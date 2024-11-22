@@ -10,8 +10,10 @@ From *refined UI/UX designs* and *intuitive software solutions* to *insightful u
   <br/>
 
   <details>
-  <summary><strong>1️⃣: JAlgorithm</strong></summary>
+  <summary><strong>1️⃣ JAlgorithm</strong></summary>
 
+
+    
   JAlgorithm is a Java-based, open-source library that provides implementations of various algorithms and data structures. Designed for students, developers, and educators, it is both an educational resource and a practical tool for algorithmic problem-solving. The project has been published as a Java library, making it accessible for direct integration into Java applications. Its open-source nature has encouraged contributions, adding to its utility and robustness.
 
   **Key Features:**  
