@@ -127,6 +127,32 @@ From *refined UI/UX designs* and *intuitive software solutions* to *insightful u
 
 </details>
 
+<details>
+  <summary><strong>5️⃣ Flutter Modal Date Picker</strong></summary>
+
+  <img src="https://raw.githubusercontent.com/muhammadkarbalaee/flutter_modal_date_picker/master/document/v0.1.0.gif" width="250"/> 
+
+  **Description:**  
+  This project is a Flutter package that provides a customizable modal date picker widget for Flutter applications. The package is designed to offer an intuitive and modern user interface for date selection, enhancing the user experience in apps that require scheduling, calendar functionality, or date inputs. It’s available on Pub.dev and GitHub for developers to integrate seamlessly into their Flutter projects.
+
+  **Technologies Used:**  
+  - **Flutter:** For developing a cross-platform package.  
+  - **Dart:** The programming language used to build the package.  
+
+  **Key Features:**  
+  - **Customizable UI:** Easily adjustable to match the application's theme and style.  
+  - **Responsive Design:** Works seamlessly across devices, including mobile and tablets.  
+  - **User-Friendly:** Intuitive modal design for easy date selection.  
+  - **Open Source:** Actively maintained with community contributions encouraged.  
+  - **Pub.dev Integration:** Easy installation and use in any Flutter project.  
+
+  **Links:**  
+  - [**GitHub Repository**](https://github.com/mohammadkarbalaee/flutter_modal_date_picker)  
+  - [**Pub.dev Package**](https://pub.dev/packages/flutter_modal_date_picker)  
+
+</details>
+
+
 
 
 </details>
